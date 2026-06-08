@@ -6751,7 +6751,8 @@
       "name_fr": "Journ\u00e9e mondiale des oc\u00e9ans",
       "description_fr": "La Journ\u00e9e mondiale des oc\u00e9ans, le 8 juin, c\u00e9l\u00e8bre les oc\u00e9ans qui couvrent plus de 70 % de notre plan\u00e8te et constituent le moteur du syst\u00e8me climatique. Elle mobilise pour la protection des mers contre la pollution, la surp\u00eache et le r\u00e9chauffement.",
       "slogan_fr": "Un oc\u00e9an en bonne sant\u00e9, une plan\u00e8te en bonne sant\u00e9.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-ocean-day.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-ocean-day.jpg",
+      "video_asset": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/videos/world-ocean-day.mp4"
     },
     {
       "id": "portugal-day",
