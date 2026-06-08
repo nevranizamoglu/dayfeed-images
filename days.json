@@ -18483,6 +18483,44 @@
       "description_fr": "La Journ\u00e9e mondiale du tatouage c\u00e9l\u00e8bre cet art corporel mill\u00e9naire pratiqu\u00e9 dans toutes les cultures. Du tatouage traditionnel polyn\u00e9sien au style r\u00e9aliste contemporain, le tatouage est une forme d'expression personnelle unique.",
       "slogan_fr": "La peau comme toile artistique.",
       "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-tattoo-day.jpg"
+    },
+    {
+      "id": "best-friends-day",
+      "name": "National Best Friends Day",
+      "name_de": "Nationaler Tag der besten Freunde",
+      "name_tr": "En \u0130yi Arkada\u015flar G\u00fcn\u00fc",
+      "name_es": "D\u00eda Nacional de los Mejores Amigos",
+      "name_fr": "Jour national des meilleurs amis",
+      "date": "06-08",
+      "isRecurring": true,
+      "categories": [
+        "friendship",
+        "social"
+      ],
+      "scope": "national",
+      "countries": [
+        "US"
+      ],
+      "description": "A day dedicated to celebrating the special bond between best friends \u2014 those people who always have your back through laughter, tears, and everything in between.",
+      "description_de": "Ein Tag, der dem besonderen Band zwischen besten Freunden gewidmet ist \u2014 jenen Menschen, die dich immer unterst\u00fctzen, ob du lachst oder weinst.",
+      "description_tr": "En iyi arkada\u015flar aras\u0131ndaki \u00f6zel ba\u011f\u0131 kutlamaya adanm\u0131\u015f bir g\u00fcn \u2014 g\u00fclerken de a\u011flarken de hep yan\u0131nda olan insanlar.",
+      "description_es": "Un d\u00eda dedicado a celebrar el v\u00ednculo especial entre mejores amigos \u2014 aquellos que siempre tienen tu espalda, tanto en las risas como en las l\u00e1grimas.",
+      "description_fr": "Un jour d\u00e9di\u00e9 \u00e0 c\u00e9l\u00e9brer le lien sp\u00e9cial entre les meilleurs amis \u2014 ceux qui sont toujours l\u00e0 pour toi, dans les rires comme dans les larmes.",
+      "slogan": "Side by side or miles apart, best friends are always close at heart.",
+      "slogan_de": "Seite an Seite oder weit entfernt \u2014 beste Freunde sind immer nah am Herzen.",
+      "slogan_tr": "Yan yana ya da uzakta \u2014 en iyi arkada\u015flar her zaman kalpte yak\u0131nd\u0131r.",
+      "slogan_es": "Juntos o separados, los mejores amigos siempre est\u00e1n cerca del coraz\u00f3n.",
+      "slogan_fr": "C\u00f4te \u00e0 c\u00f4te ou \u00e0 des kilom\u00e8tres, les meilleurs amis sont toujours proches du c\u0153ur.",
+      "hashtags": [
+        "#NationalBestFriendsDay",
+        "#BestFriendsDay",
+        "#BFF"
+      ],
+      "emoji": "\ud83d\udc9b",
+      "colorHex": "#FF6B9D",
+      "gradientStart": "#FF6B9D",
+      "gradientEnd": "#FFD93D",
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/best-friends-day.jpg"
     }
   ]
 }
