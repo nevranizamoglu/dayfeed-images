@@ -1,18 +1,18 @@
 {
-  "version": 34,
+  "version": 35,
   "summary": {
-    "total": 480,
+    "total": 483,
     "by_scope": {
-      "global": 347,
-      "national": 121,
+      "global": 348,
+      "national": 123,
       "regional": 12
     },
     "by_category": {
-      "culture": 136,
+      "culture": 137,
       "national": 101,
-      "human-rights": 94,
+      "human-rights": 95,
       "fun": 77,
-      "health": 73,
+      "health": 74,
       "environment": 61,
       "science-tech": 40,
       "food": 39,
@@ -21,7 +21,10 @@
       "awareness": 1,
       "cultural": 1,
       "fashion": 1,
-      "science": 1
+      "science": 1,
+      "education": 1,
+      "friendship": 1,
+      "social": 1
     },
     "multi_day_count": 4
   },
@@ -18521,6 +18524,44 @@
       "gradientStart": "#FF6B9D",
       "gradientEnd": "#FFD93D",
       "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/best-friends-day.jpg"
+    },
+    {
+      "id": "national-cancer-thriver-day",
+      "name": "National Cancer Thriver Day",
+      "name_de": "Nationaler Krebs-Thriver-Tag",
+      "name_tr": "Ulusal Kanser Ayakta Kalma G\u00fcn\u00fc",
+      "name_es": "D\u00eda Nacional del Guerrero del C\u00e1ncer",
+      "name_fr": "Journ\u00e9e nationale des survivants du cancer",
+      "date": "06-08",
+      "isRecurring": true,
+      "categories": [
+        "health",
+        "human-rights"
+      ],
+      "scope": "national",
+      "countries": [
+        "US"
+      ],
+      "description": "National Cancer Thriver Day honors those who have faced cancer and continue to live with strength, purpose, and hope. Founded by Connect4Cancer in 2021, the day celebrates active, engaged living after cancer \u2014 not just survival, but thriving through grit, resilience, and deep meaning.",
+      "description_de": "Der Nationale Krebs-Thriver-Tag ehrt Menschen, die Krebs \u00fcberstanden haben und weiterhin mit St\u00e4rke und Hoffnung leben. Der Tag feiert nicht nur das \u00dcberleben, sondern das Aufbl\u00fchen \u2014 das aktive, sinnvolle Leben nach der Diagnose.",
+      "description_tr": "Ulusal Kanser Ayakta Kalma G\u00fcn\u00fc, kanserle y\u00fczle\u015fen ve g\u00fc\u00e7, ama\u00e7 ve umutla ya\u015famay\u0131 s\u00fcrd\u00fcrenleri onurland\u0131r\u0131r. 2021\u2019de kurulan bu g\u00fcn, hastal\u0131\u011f\u0131n \u00f6tesinde tam ve anlaml\u0131 bir ya\u015fam\u0131 kutlar.",
+      "description_es": "El D\u00eda Nacional del Guerrero del C\u00e1ncer honra a quienes han enfrentado el c\u00e1ncer y siguen viviendo con fuerza, prop\u00f3sito y esperanza. Celebra no solo la supervivencia, sino la vida plena y activa despu\u00e9s del diagn\u00f3stico.",
+      "description_fr": "La Journ\u00e9e nationale des survivants du cancer honore ceux qui ont fait face au cancer et continuent de vivre avec force et espoir. Elle c\u00e9l\u00e8bre non pas la simple survie, mais une vie pleine de sens et de r\u00e9silience apr\u00e8s le diagnostic.",
+      "slogan": "Not just surviving \u2014 thriving.",
+      "slogan_de": "Nicht nur \u00fcberleben \u2014 aufbl\u00fchen.",
+      "slogan_tr": "Sadece hayatta kalmak de\u011fil \u2014 serpilmek.",
+      "slogan_es": "No solo sobrevivir \u2014 prosperar.",
+      "slogan_fr": "Pas seulement survivre \u2014 s\u2019\u00e9panouir.",
+      "hashtags": [
+        "#CancerThriverDay",
+        "#NationalCancerThriverDay",
+        "#Thriver"
+      ],
+      "emoji": "\ud83c\udf97\ufe0f",
+      "colorHex": "#8B5CF6",
+      "gradientStart": "#8B5CF6",
+      "gradientEnd": "#F59E0B",
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/national-cancer-thriver-day.jpg"
     }
   ]
 }
