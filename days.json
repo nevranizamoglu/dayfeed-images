@@ -1,5 +1,5 @@
 {
-  "version": 38,
+  "version": 39,
   "summary": {
     "total": 484,
     "by_scope": {
@@ -6108,7 +6108,7 @@
       "colorHex": "#D97706",
       "gradientStart": "#D97706",
       "gradientEnd": "#FCD34D",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/national-adopt-a-cat-month.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/national-adopt-a-cat-month-v2.jpg"
     },
     {
       "id": "national-olive-day",
