@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "summary": {
     "total": 484,
     "by_scope": {
@@ -6911,7 +6911,8 @@
       "emoji": "\ud83d\udd8c\ufe0f",
       "colorHex": "#E91E8C",
       "gradientStart": "#AD1457",
-      "gradientEnd": "#F48FB1"
+      "gradientEnd": "#F48FB1",
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/national-making-life-beautiful-day-v1.jpg"
     },
     {
       "id": "child-labour-day",
