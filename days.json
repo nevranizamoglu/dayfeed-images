@@ -1,5 +1,5 @@
 {
-  "version": 37,
+  "version": 38,
   "summary": {
     "total": 484,
     "by_scope": {
@@ -6912,7 +6912,7 @@
       "colorHex": "#E91E8C",
       "gradientStart": "#AD1457",
       "gradientEnd": "#F48FB1",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/national-making-life-beautiful-day-v1.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/national-making-life-beautiful-day-v2.jpg"
     },
     {
       "id": "child-labour-day",
