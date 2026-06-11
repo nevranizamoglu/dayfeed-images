@@ -1,30 +1,30 @@
 {
-  "version": 35,
+  "version": 36,
   "summary": {
-    "total": 483,
+    "total": 484,
     "by_scope": {
       "global": 348,
-      "national": 123,
+      "national": 124,
       "regional": 12
     },
     "by_category": {
       "culture": 137,
       "national": 101,
       "human-rights": 95,
-      "fun": 77,
+      "fun": 78,
       "health": 74,
       "environment": 61,
       "science-tech": 40,
       "food": 39,
       "sports": 17,
+      "awareness": 2,
+      "social": 2,
       "animals": 1,
-      "awareness": 1,
       "cultural": 1,
       "fashion": 1,
       "science": 1,
       "education": 1,
-      "friendship": 1,
-      "social": 1
+      "friendship": 1
     },
     "multi_day_count": 4
   },
@@ -6871,6 +6871,47 @@
       "description_fr": "La Journ\u00e9e internationale du jeu, le 11 juin, rappelle que jouer est un droit fondamental des enfants et un besoin essentiel tout au long de la vie. Elle c\u00e9l\u00e8bre la libert\u00e9, l'imagination et la joie que procure le jeu.",
       "slogan_fr": "Le jeu est le travail de l'enfant.",
       "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-day-play.jpg"
+    },
+    {
+      "id": "national-making-life-beautiful-day",
+      "name": "National Making Life Beautiful Day",
+      "name_de": "Nationaler Tag des sch\u00f6nen Lebens",
+      "name_tr": "Ulusal Ya\u015fam\u0131 G\u00fczelle\u015ftirme G\u00fcn\u00fc",
+      "name_es": "D\u00eda Nacional de Hacer la Vida Bella",
+      "name_fr": "Journ\u00e9e nationale pour embellir la vie",
+      "date": "06-11",
+      "year": null,
+      "isRecurring": true,
+      "categories": [
+        "fun",
+        "social",
+        "awareness"
+      ],
+      "scope": "national",
+      "countries": [
+        "US"
+      ],
+      "description": "National Making Life Beautiful Day is celebrated on June 11th to honor the power of beauty in all its forms\u2014from art and creativity to kindness and meaningful connections. Founded by Apriori Beauty in 2015, this day encourages everyone to take intentional steps to enrich their surroundings, relationships, and inner selves.",
+      "description_de": "Der Nationale Tag des sch\u00f6nen Lebens wird am 11. Juni gefeiert, um die Macht der Sch\u00f6nheit in all ihren Formen zu ehren. Dieser 2015 von Apriori Beauty gegr\u00fcndete Tag ermutigt alle, bewusst Schritte zu unternehmen, um ihre Umgebung, Beziehungen und ihr inneres Selbst zu bereichern.",
+      "description_tr": "Ulusal Ya\u015fam\u0131 G\u00fczelle\u015ftirme G\u00fcn\u00fc, 11 Haziran'da t\u00fcm bi\u00e7imleriyle g\u00fczelli\u011fin g\u00fcc\u00fcn\u00fc onurland\u0131rmak i\u00e7in kutlan\u0131r. 2015 y\u0131l\u0131nda Apriori Beauty taraf\u0131ndan kurulan bu g\u00fcn, herkesi \u00e7evrelerini, ili\u015fkilerini ve i\u00e7 d\u00fcnyalar\u0131n\u0131 zenginle\u015ftirmek i\u00e7in bilin\u00e7li ad\u0131mlar atmaya te\u015fvik eder.",
+      "description_es": "El D\u00eda Nacional de Hacer la Vida Bella se celebra el 11 de junio para honrar el poder de la belleza en todas sus formas. Fundado por Apriori Beauty en 2015, este d\u00eda anima a todos a enriquecer su entorno, relaciones y su ser interior.",
+      "description_fr": "La Journ\u00e9e nationale pour embellir la vie est c\u00e9l\u00e9br\u00e9e le 11 juin pour honorer le pouvoir de la beaut\u00e9 sous toutes ses formes. Fond\u00e9e par Apriori Beauty en 2015, cette journ\u00e9e encourage chacun \u00e0 enrichir son environnement, ses relations et son moi int\u00e9rieur.",
+      "slogan": "Beauty is in the Details",
+      "slogan_de": "Sch\u00f6nheit liegt im Detail",
+      "slogan_tr": "G\u00fczellik k\u00fc\u00e7\u00fck \u015feylerde gizlidir",
+      "slogan_es": "La belleza est\u00e1 en los detalles",
+      "slogan_fr": "La beaut\u00e9 se trouve dans les d\u00e9tails",
+      "hashtags": [
+        "#NationalMakingLifeBeautifulDay",
+        "#BeautyInTheDetails",
+        "#LifeIsBeautiful",
+        "#MakeLifeGorgeous",
+        "#AppreciateBeauty"
+      ],
+      "emoji": "\ud83d\udd8c\ufe0f",
+      "colorHex": "#E91E8C",
+      "gradientStart": "#AD1457",
+      "gradientEnd": "#F48FB1"
     },
     {
       "id": "child-labour-day",
