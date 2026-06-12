@@ -1,5 +1,5 @@
 {
-  "version": 46,
+  "version": 48,
   "summary": {
     "total": 484,
     "by_scope": {
@@ -7173,7 +7173,7 @@
       "name_fr": "Journ\u00e9e mondiale du vent",
       "description_fr": "La Journ\u00e9e mondiale du vent, le 15 juin, c\u00e9l\u00e8bre le potentiel de l'\u00e9nergie \u00e9olienne dans la transition \u00e9nerg\u00e9tique mondiale. Elle invite \u00e0 d\u00e9couvrir comment le vent peut alimenter nos maisons et r\u00e9duire notre d\u00e9pendance aux \u00e9nergies fossiles.",
       "slogan_fr": "L'\u00e9nergie du vent pour un avenir propre.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-wind-day.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-wind-day-v2.jpg"
     },
     {
       "id": "world-fathers-day",
