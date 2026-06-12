@@ -1,5 +1,5 @@
 {
-  "version": 42,
+  "version": 44,
   "summary": {
     "total": 484,
     "by_scope": {
@@ -6069,7 +6069,7 @@
       "name_fr": "Mois des fiert\u00e9s LGBTQIA+",
       "description_fr": "Le Mois des fiert\u00e9s LGBTQIA+, en juin, comm\u00e9more les \u00e9meutes de Stonewall de 1969 et c\u00e9l\u00e8bre la diversit\u00e9 des identit\u00e9s sexuelles et de genre. Des marches des fiert\u00e9s color\u00e9es rassemblent des millions de personnes dans le monde.",
       "slogan_fr": "L'amour est amour.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/lgbtq-pride-month.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/lgbtq-pride-month-v2.jpg"
     },
     {
       "id": "national-adopt-a-cat-month",
