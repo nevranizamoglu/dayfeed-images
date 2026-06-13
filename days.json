@@ -1,5 +1,5 @@
 {
-  "version": 48,
+  "version": 50,
   "summary": {
     "total": 484,
     "by_scope": {
@@ -7320,7 +7320,7 @@
       "name_fr": "Journ\u00e9e mondiale de lutte contre la d\u00e9sertification et la s\u00e9cheresse",
       "description_fr": "La Journ\u00e9e mondiale de lutte contre la d\u00e9sertification et la s\u00e9cheresse, le 17 juin, alerte sur la d\u00e9gradation des terres qui menace la s\u00e9curit\u00e9 alimentaire de millions de personnes. Elle appelle \u00e0 restaurer les sols et \u00e0 lutter contre la s\u00e9cheresse.",
       "slogan_fr": "La terre vivante, notre futur.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/desertification-day.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/desertification-day-v2.jpg"
     },
     {
       "id": "iceland-independence-day",
