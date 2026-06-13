@@ -1,5 +1,5 @@
 {
-  "version": 50,
+  "version": 52,
   "summary": {
     "total": 484,
     "by_scope": {
@@ -7545,7 +7545,7 @@
       "name_fr": "Journ\u00e9e du drapeau argentin",
       "description_fr": "La Journ\u00e9e du drapeau argentin, le 20 juin, comm\u00e9more la mort du g\u00e9n\u00e9ral Manuel Belgrano en 1820, cr\u00e9ateur du drapeau argentin. C'est une journ\u00e9e de fiert\u00e9 nationale et d'hommage aux fondateurs de la nation.",
       "slogan_fr": "Celeste y blanco \u2014 Bleu et blanc pour toujours.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/argentina-flag-day.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/argentina-flag-day-v2.jpg"
     },
     {
       "id": "international-yoga-day",
