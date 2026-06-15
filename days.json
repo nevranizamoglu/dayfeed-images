@@ -1,5 +1,5 @@
 {
-  "version": 54,
+  "version": 56,
   "summary": {
     "total": 484,
     "by_scope": {
@@ -7735,7 +7735,7 @@
       "name_fr": "Journ\u00e9e mondiale du yoga",
       "description_fr": "La Journ\u00e9e mondiale du yoga c\u00e9l\u00e8bre cette pratique mill\u00e9naire originaire de l'Inde, d\u00e9sormais pratiqu\u00e9e par plus de 300 millions de personnes dans le monde. Elle promeut la sant\u00e9 holistique, la paix int\u00e9rieure et l'harmonie.",
       "slogan_fr": "Respirez. Bougez. M\u00e9ditez.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-yoga-day.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-yoga-day-v2.jpg"
     },
     {
       "id": "world-rainforest-day",
