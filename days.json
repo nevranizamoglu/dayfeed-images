@@ -1,5 +1,5 @@
 {
-  "version": 56,
+  "version": 58,
   "summary": {
     "total": 484,
     "by_scope": {
@@ -7772,7 +7772,7 @@
       "name_fr": "Journ\u00e9e mondiale de la for\u00eat tropicale",
       "description_fr": "La Journ\u00e9e mondiale de la for\u00eat tropicale, le 22 juin, sensibilise \u00e0 l'importance des for\u00eats tropicales, qui abritent plus de la moiti\u00e9 des esp\u00e8ces terrestres et r\u00e9gulent le climat de la plan\u00e8te. Elle appelle \u00e0 stopper leur destruction.",
       "slogan_fr": "La for\u00eat tropicale : tr\u00e9sor de la biodiversit\u00e9.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-rainforest-day.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-rainforest-day-v2.jpg"
     },
     {
       "id": "olympic-day",
