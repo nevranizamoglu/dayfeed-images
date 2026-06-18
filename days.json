@@ -1,9 +1,9 @@
 {
-  "version": 59,
+  "version": 60,
   "summary": {
-    "total": 485,
+    "total": 484,
     "by_scope": {
-      "global": 349,
+      "global": 348,
       "national": 124,
       "regional": 12
     },
@@ -11,11 +11,11 @@
       "culture": 137,
       "national": 101,
       "human-rights": 95,
-      "fun": 79,
+      "fun": 78,
       "health": 74,
       "environment": 61,
-      "food": 40,
       "science-tech": 40,
+      "food": 39,
       "sports": 17,
       "awareness": 2,
       "social": 2,
@@ -7362,44 +7362,6 @@
       "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/iceland-independence-day.jpg"
     },
     {
-      "id": "international-picnic-day",
-      "name": "International Picnic Day",
-      "name_de": "Internationaler Picknicktag",
-      "name_tr": "Uluslararas\u0131 Piknik G\u00fcn\u00fc",
-      "name_es": "D\u00eda Internacional del Picnic",
-      "name_fr": "Journ\u00e9e Internationale du Pique-nique",
-      "date": "06-18",
-      "year": null,
-      "isRecurring": true,
-      "categories": [
-        "food",
-        "fun"
-      ],
-      "scope": "global",
-      "countries": [],
-      "description": "International Picnic Day celebrates the simple joy of sharing a meal outdoors with friends and family. Whether in a local park, a countryside meadow, or your own backyard, the day invites people to slow down, connect, and enjoy nature's dining room. Pack a basket, spread a blanket, and savor the al fresco life.",
-      "description_de": "Der Internationale Picknicktag feiert die einfache Freude, im Freien mit Freunden und Familie zu essen. Ob im Park, auf einer Wiese oder im Garten \u2013 der Tag l\u00e4dt dazu ein, innezuhalten und die Natur als Speisesaal zu genie\u00dfen.",
-      "description_tr": "Uluslararas\u0131 Piknik G\u00fcn\u00fc, arkada\u015flar ve aileyle a\u00e7\u0131k havada yemek payla\u015fman\u0131n basit sevincini kutlar. Bir parkta, \u00e7ay\u0131rda ya da bah\u00e7enizde olsun, bu g\u00fcn insanlar\u0131 yava\u015flamaya ve do\u011fan\u0131n yemek salonunu ke\u015ffetmeye davet eder.",
-      "description_es": "El D\u00eda Internacional del Picnic celebra la sencilla alegr\u00eda de compartir una comida al aire libre con amigos y familia. Ya sea en un parque, un prado o tu propio jard\u00edn, el d\u00eda invita a las personas a descansar, conectarse y disfrutar del comedor de la naturaleza.",
-      "description_fr": "La Journ\u00e9e Internationale du Pique-nique c\u00e9l\u00e8bre la joie simple de partager un repas en plein air avec ses amis et sa famille. Que ce soit dans un parc, une prairie ou votre propre jardin, cette journ\u00e9e invite chacun \u00e0 ralentir, se connecter et profiter de la salle \u00e0 manger de la nature.",
-      "slogan": "Pack a basket, share the joy.",
-      "slogan_de": "Korb packen, Freude teilen.",
-      "slogan_tr": "Sepeti haz\u0131rla, sevinci payla\u015f.",
-      "slogan_es": "Prepara la cesta, comparte la alegr\u00eda.",
-      "slogan_fr": "Pr\u00e9pare le panier, partage la joie.",
-      "hashtags": [
-        "#InternationalPicnicDay",
-        "#Picnic",
-        "#OutdoorEating",
-        "#AlFresco",
-        "#NatureFood"
-      ],
-      "emoji": "\ud83e\uddfa",
-      "colorHex": "#56AB2F",
-      "gradientStart": "#56AB2F",
-      "gradientEnd": "#F7DC6F"
-    },
-    {
       "id": "world-sickle-cell-day",
       "name": "World Sickle Cell Day",
       "name_de": "Welt-Sichelzelltag",
@@ -7847,7 +7809,7 @@
       "name_fr": "Journ\u00e9e olympique internationale",
       "description_fr": "La Journ\u00e9e olympique internationale, le 23 juin, comm\u00e9more la fondation du Comit\u00e9 International Olympique en 1894. Elle c\u00e9l\u00e8bre le mouvement olympique et ses valeurs d'excellence, de respect et d'amiti\u00e9 \u00e0 travers des activit\u00e9s sportives dans le monde entier.",
       "slogan_fr": "Plus vite, plus haut, plus fort \u2014 ensemble.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/olympic-day.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/olympic-day-v2.jpg"
     },
     {
       "id": "social-media-day",
