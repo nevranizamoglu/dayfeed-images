@@ -1,17 +1,17 @@
 {
-  "version": 71,
+  "version": 81,
   "summary": {
-    "total": 486,
+    "total": 489,
     "by_scope": {
-      "global": 349,
+      "global": 352,
       "national": 125,
       "regional": 12
     },
     "by_category": {
-      "culture": 138,
+      "culture": 139,
       "national": 102,
       "human-rights": 95,
-      "fun": 79,
+      "fun": 81,
       "health": 74,
       "environment": 61,
       "science-tech": 40,
@@ -2583,7 +2583,7 @@
         "#TaxiDrivers",
         "#DünyaTaksicilerGünü"
       ],
-      "image_url": null
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-taxi-day-v1.jpg"
     },
     {
       "id": "world-meteorological-day",
@@ -7306,7 +7306,7 @@
       "name_fr": "Fête des pères",
       "description_fr": "La Fête des pères, célébrée le troisième dimanche de juin dans de nombreux pays, honore les pères et les figures paternelles. C'est l'occasion d'exprimer amour et gratitude à ceux qui nous guident et nous protègent.",
       "slogan_fr": "Pour tous les pères du monde.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-fathers-day-v3.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-fathers-day-v4.jpg",
       "dateRule": "3rd sunday june"
     },
     {
@@ -7757,7 +7757,7 @@
       "name_fr": "Fête de la Musique",
       "description_fr": "La Fête de la Musique, le 21 juin, née en France en 1982, est désormais célébrée dans plus de 120 pays. Ce jour, les musiciens amateurs et professionnels jouent gratuitement dans les rues, les parcs et les places publiques.",
       "slogan_fr": "Faites de la musique !",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-music-day.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-music-day-v2.jpg"
     },
     {
       "id": "world-giraffe-day",
@@ -11024,7 +11024,7 @@
         "#BaldAndProud",
         "#KelOlmakGüzeldir"
       ],
-      "image_url": null
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/bald-is-beautiful-day-v1.jpg"
     },
     {
       "id": "world-first-aid-day",
@@ -13002,7 +13002,7 @@
         "#KelVeÖzgür",
         "#BaldPride"
       ],
-      "image_url": null
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/bald-and-free-day-v1.jpg"
     },
     {
       "id": "global-handwashing-day",
