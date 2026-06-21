@@ -1,21 +1,21 @@
 {
-  "version": 62,
+  "version": 71,
   "summary": {
-    "total": 485,
+    "total": 486,
     "by_scope": {
       "global": 349,
-      "national": 124,
+      "national": 125,
       "regional": 12
     },
     "by_category": {
-      "culture": 137,
-      "national": 101,
+      "culture": 138,
+      "national": 102,
       "human-rights": 95,
       "fun": 79,
       "health": 74,
       "environment": 61,
-      "food": 40,
       "science-tech": 40,
+      "food": 39,
       "sports": 17,
       "awareness": 2,
       "social": 2,
@@ -24,6 +24,7 @@
       "fashion": 1,
       "science": 1,
       "education": 1,
+      "history": 1,
       "friendship": 1
     },
     "multi_day_count": 4
@@ -1129,7 +1130,7 @@
       "name": "World Pangolin Day",
       "name_de": "Welt-Pangolin-Tag",
       "name_tr": "Dünya Pangolin Günü",
-      "date": "02-15",
+      "date": null,
       "year": null,
       "isRecurring": true,
       "categories": [
@@ -1158,7 +1159,8 @@
       "name_fr": "Journée mondiale du pangolin",
       "description_fr": "La Journée mondiale du pangolin, en février, attire l'attention sur cet animal le plus braconné du monde. Les pangolins, victimes du commerce illégal pour leurs écailles, sont menacés d'extinction et nécessitent une protection urgente.",
       "slogan_fr": "Protégeons le pangolin.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-sparrow-day-2.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-sparrow-day-2.jpg",
+      "dateRule": "3rd saturday february"
     },
     {
       "id": "parinirvana-day",
@@ -1353,7 +1355,7 @@
       "name": "World Pancake Day",
       "name_de": "Welt-Pfannkuchen-Tag",
       "name_tr": "Dünya Pankek Günü",
-      "date": "02-25",
+      "date": null,
       "year": null,
       "isRecurring": true,
       "categories": [
@@ -1382,7 +1384,16 @@
       "name_fr": "Journée mondiale des crêpes",
       "description_fr": "La Journée mondiale des crêpes, souvent célébrée le Mardi gras, invite à préparer et déguster des crêpes de toutes sortes. Tradition culinaire universelle, la crêpe est un symbole de partage et de convivialité.",
       "slogan_fr": "La crêpe parfaite commence par un flip parfait.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-pancake-day.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-pancake-day.jpg",
+      "occurrences": [
+        "2024-02-13",
+        "2025-03-04",
+        "2026-02-17",
+        "2027-02-09",
+        "2028-02-29",
+        "2029-02-13",
+        "2030-03-05"
+      ]
     },
     {
       "id": "pokemon-day",
@@ -1980,7 +1991,7 @@
       "name": "World Sleep Day",
       "name_de": "Weltschlagtag",
       "name_tr": "Dünya Uyku Günü",
-      "date": "03-15",
+      "date": null,
       "year": null,
       "isRecurring": true,
       "categories": [
@@ -2011,7 +2022,16 @@
       "name_fr": "Journée mondiale du sommeil",
       "description_fr": "La Journée mondiale du sommeil sensibilise à l'importance d'un sommeil de qualité pour la santé physique et mentale. Elle combat les troubles du sommeil et encourage de meilleures habitudes pour une vie plus équilibrée.",
       "slogan_fr": "Le sommeil, pilier de la santé.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-sleep-day.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-sleep-day.jpg",
+      "occurrences": [
+        "2024-03-15",
+        "2025-03-14",
+        "2026-03-13",
+        "2027-03-19",
+        "2028-03-17",
+        "2029-03-16",
+        "2030-03-15"
+      ]
     },
     {
       "id": "world-speech-day",
@@ -2528,6 +2548,42 @@
       "description_fr": "L'Heure de la Terre, organisée par le WWF, invite particuliers, entreprises et villes du monde entier à éteindre leurs lumières pendant une heure pour alerter sur le changement climatique et montrer que l'action collective est possible.",
       "slogan_fr": "Une heure pour la planète.",
       "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/earth-hour.jpg"
+    },
+    {
+      "id": "world-taxi-day",
+      "name": "World Taxi Day",
+      "name_de": "Welt-Taxitag",
+      "name_tr": "Dünya Taksiciler Günü",
+      "name_es": "Día Mundial del Taxi",
+      "name_fr": "Journée mondiale du taxi",
+      "date": "03-22",
+      "year": null,
+      "isRecurring": true,
+      "categories": [
+        "culture"
+      ],
+      "scope": "global",
+      "countries": [],
+      "description": "World Taxi Day on March 22 honors taxi drivers worldwide — the unsung heroes who navigate cities day and night, keeping millions of people moving safely.",
+      "description_de": "Der Welt-Taxitag am 22. März ehrt Taxifahrer weltweit — die unbesungenen Helden, die Millionen von Menschen sicher durch die Städte bringen.",
+      "description_tr": "22 Mart Dünya Taksiciler Günü, şehirleri gece gündüz demeden aşan ve milyonlarca insanı güvenle taşıyan taksi sürücülerini onurlandırır.",
+      "description_es": "El Día Mundial del Taxi, el 22 de marzo, honra a los taxistas de todo el mundo — los héroes anónimos que mantienen las ciudades en movimiento.",
+      "description_fr": "La Journée mondiale du taxi, le 22 mars, rend hommage aux chauffeurs de taxi du monde entier — ces héros discrets qui font vivre les villes.",
+      "slogan": "Every ride tells a story.",
+      "slogan_de": "Jede Fahrt erzählt eine Geschichte.",
+      "slogan_tr": "Her yolculuk bir hikaye anlatır.",
+      "slogan_es": "Cada viaje cuenta una historia.",
+      "slogan_fr": "Chaque course raconte une histoire.",
+      "emoji": "🚕",
+      "colorHex": "#F9A825",
+      "gradientStart": "#F9A825",
+      "gradientEnd": "#FFD54F",
+      "hashtags": [
+        "#WorldTaxiDay",
+        "#TaxiDrivers",
+        "#DünyaTaksicilerGünü"
+      ],
+      "image_url": null
     },
     {
       "id": "world-meteorological-day",
@@ -4420,7 +4476,7 @@
       "name": "World Laughter Day",
       "name_de": "Welt-Lach-Tag",
       "name_tr": "Dünya Kahkaha Günü",
-      "date": "05-04",
+      "date": null,
       "year": null,
       "isRecurring": true,
       "categories": [
@@ -4451,7 +4507,45 @@
       "name_fr": "Journée mondiale du rire",
       "description_fr": "La Journée mondiale du rire, le premier dimanche de mai, promeut le rire comme thérapie universelle pour la santé et la paix. Des milliers de groupes de yoga du rire se réunissent dans le monde pour partager la joie.",
       "slogan_fr": "Le rire est le meilleur des médicaments.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-laughter-day.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-laughter-day.jpg",
+      "dateRule": "1st sunday may"
+    },
+    {
+      "id": "world-mothers-day",
+      "name": "Mother's Day",
+      "name_de": "Muttertag",
+      "name_tr": "Anneler Günü",
+      "name_es": "Día de la Madre",
+      "name_fr": "Fête des mères",
+      "date": null,
+      "dateRule": "2nd sunday may",
+      "year": null,
+      "isRecurring": true,
+      "categories": [
+        "culture"
+      ],
+      "scope": "global",
+      "countries": [],
+      "description": "Mother's Day is a celebration honoring mothers and celebrating motherhood, maternal bonds, and the influence of mothers in society. It is celebrated on the second Sunday in May in many countries.",
+      "description_de": "Der Muttertag ist eine Feier zu Ehren der Mütter und feiert Mutterschaft, mütterliche Bindungen und den Einfluss von Müttern in der Gesellschaft. Er wird am zweiten Sonntag im Mai gefeiert.",
+      "description_tr": "Anneler Günü, anneleri onurlandırmak ve anneliği, anne bağını ve annelerin toplum üzerindeki etkisini kutlamak için düzenlenen bir kutlamadır. Pek çok ülkede Mayıs ayının ikinci Pazar günü kutlanır.",
+      "description_es": "El Día de la Madre es una celebración que honra a las madres y celebra la maternidad, los lazos maternales y la influencia de las madres en la sociedad. Se celebra el segundo domingo de mayo en muchos países.",
+      "description_fr": "La Fête des mères honore les mères et célèbre la maternité, les liens maternels et l'influence des mères dans la société. Elle est célébrée le deuxième dimanche de mai dans de nombreux pays.",
+      "slogan": "Celebrating the Heart of Every Home",
+      "slogan_de": "Das Herz jedes Zuhauses feiern",
+      "slogan_tr": "Her Evin Kalbini Kutlamak",
+      "slogan_es": "Celebrando el corazón de cada hogar",
+      "slogan_fr": "Célébrons le cœur de chaque foyer",
+      "emoji": "🌸",
+      "colorHex": "#D81B60",
+      "gradientStart": "#D81B60",
+      "gradientEnd": "#F48FB1",
+      "hashtags": [
+        "#MothersDay",
+        "#HappyMothersDay",
+        "#MomLife"
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-mothers-day-v1.jpg"
     },
     {
       "id": "world-drone-day",
@@ -5214,7 +5308,7 @@
       "name": "AIDS Candlelight Memorial",
       "name_de": "AIDS-Kerzenlicht-Gedenkfeier",
       "name_tr": "AIDS Mum Işığı Anma Töreni",
-      "date": "05-19",
+      "date": null,
       "year": null,
       "isRecurring": true,
       "categories": [
@@ -5245,7 +5339,8 @@
       "name_fr": "Mémorial Lumière pour le Sida",
       "description_fr": "Le Mémorial Lumière pour le Sida est une veillée internationale qui rend hommage aux personnes décédées du VIH/Sida et exprime la solidarité envers ceux qui vivent avec le virus. Des bougies sont allumées aux quatre coins du monde.",
       "slogan_fr": "En souvenir. En solidarité.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-aids-candlelight-memorial.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-aids-candlelight-memorial.jpg",
+      "dateRule": "3rd sunday may"
     },
     {
       "id": "ataturk-youth-sports-day-turkey",
@@ -6456,7 +6551,7 @@
       "name": "Global Running Day",
       "name_de": "Globaler Lauftag",
       "name_tr": "Küresel Koşu Günü",
-      "date": "06-05",
+      "date": null,
       "year": null,
       "isRecurring": true,
       "categories": [
@@ -6487,7 +6582,8 @@
       "name_fr": "Journée mondiale de la course à pied",
       "description_fr": "La Journée mondiale de la course à pied, le premier mercredi de juin, invite des millions de personnes à chausser leurs baskets et célébrer la course. Qu'on soit débutant ou marathonien, courir est un plaisir accessible à tous.",
       "slogan_fr": "Courez pour votre vie.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-running-day.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-running-day.jpg",
+      "dateRule": "1st wednesday june"
     },
     {
       "id": "denmark-constitution-day",
@@ -6533,7 +6629,7 @@
       "name": "World Donut Day",
       "name_de": "Welt-Donut-Tag",
       "name_tr": "Dünya Donut Günü",
-      "date": "06-06",
+      "date": null,
       "year": null,
       "isRecurring": true,
       "categories": [
@@ -6564,7 +6660,8 @@
       "name_fr": "Journée mondiale du beignet",
       "description_fr": "La Journée mondiale du beignet, le premier vendredi de juin, rend hommage à ce délice sucré. Originellement créé par des bénévoles de l'Armée du Salut pendant la Première Guerre mondiale, le donut est devenu un symbole de gourmandise partagée.",
       "slogan_fr": "La vie est meilleure avec un beignet.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-donut-day.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-donut-day.jpg",
+      "dateRule": "1st friday june"
     },
     {
       "id": "sweden-national-day",
@@ -7180,7 +7277,7 @@
       "name": "Father's Day",
       "name_de": "Vatertag",
       "name_tr": "Babalar Günü",
-      "date": "06-16",
+      "date": null,
       "year": null,
       "isRecurring": true,
       "categories": [
@@ -7209,7 +7306,8 @@
       "name_fr": "Fête des pères",
       "description_fr": "La Fête des pères, célébrée le troisième dimanche de juin dans de nombreux pays, honore les pères et les figures paternelles. C'est l'occasion d'exprimer amour et gratitude à ceux qui nous guident et nous protègent.",
       "slogan_fr": "Pour tous les pères du monde.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-fathers-day-v3.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-fathers-day-v3.jpg",
+      "dateRule": "3rd sunday june"
     },
     {
       "id": "world-sea-turtle-day",
@@ -7963,6 +8061,45 @@
       "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/international-reggae-day.jpg"
     },
     {
+      "id": "kabotaj-bayrami",
+      "name": "Maritime and Cabotage Day",
+      "name_de": "Seetag und Kabotage-Tag",
+      "name_tr": "Denizcilik ve Kabotaj Bayramı",
+      "name_es": "Día Marítimo y de Cabotaje",
+      "name_fr": "Journée maritime et du cabotage",
+      "date": "07-01",
+      "year": null,
+      "isRecurring": true,
+      "categories": [
+        "national",
+        "history"
+      ],
+      "scope": "national",
+      "countries": [
+        "TR"
+      ],
+      "description": "On July 1, 1926, Turkey's Cabotage Law (No. 815) came into effect, granting Turkish citizens the exclusive right to maritime trade and navigation in Turkish territorial waters — ending decades of foreign dominance over Turkey's seas.",
+      "description_de": "Am 1. Juli 1926 trat das türkische Kabotage-Gesetz (Nr. 815) in Kraft und übertrug türkischen Bürgern das ausschließliche Recht auf Seehandel und Navigation in türkischen Hoheitsgewässern.",
+      "description_tr": "1 Temmuz 1926'da yürürlüğe giren 815 sayılı Kabotaj Kanunu ile Türk vatandaşlarına kendi denizlerinde ticaret ve seyir yapma hakkı tanındı; yabancı egemenliğine son verildi. Bu tarih, Türkiye'nin denizlerdeki bağımsızlığının simgesi olarak her yıl kutlanmaktadır.",
+      "description_es": "El 1 de julio de 1926, la Ley de Cabotaje de Turquía (No. 815) entró en vigor, otorgando a los ciudadanos turcos el derecho exclusivo al comercio marítimo en aguas territoriales turcas.",
+      "description_fr": "Le 1er juillet 1926, la loi turque sur le cabotage (n° 815) entra en vigueur, accordant aux citoyens turcs le droit exclusif au commerce maritime dans les eaux territoriales turques, mettant fin à des décennies de domination étrangère.",
+      "slogan": "Turkey's seas, Turkey's pride.",
+      "slogan_de": "Türkische Meere, türkischer Stolz.",
+      "slogan_tr": "Türk denizleri, Türk bayrağıyla.",
+      "slogan_es": "Los mares de Turquía, el orgullo de Turquía.",
+      "slogan_fr": "Les mers de Turquie, la fierté de Turquie.",
+      "emoji": "⚓",
+      "colorHex": "#0077B6",
+      "gradientStart": "#0077B6",
+      "gradientEnd": "#00B4D8",
+      "hashtags": [
+        "#KabotajBayramı",
+        "#DenizcilikBayramı",
+        "#1Temmuz"
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/kabotaj-bayrami-v1.jpg"
+    },
+    {
       "id": "world-ufo-day",
       "name": "World UFO Day",
       "name_de": "Welt-UFO-Tag",
@@ -8534,7 +8671,7 @@
       "name": "World Ice Cream Day",
       "name_de": "Welt-Eistag",
       "name_tr": "Dünya Dondurma Günü",
-      "date": "07-20",
+      "date": null,
       "year": null,
       "isRecurring": true,
       "categories": [
@@ -8565,7 +8702,8 @@
       "name_fr": "Journée mondiale de la glace",
       "description_fr": "La Journée mondiale de la glace, le troisième dimanche de juillet, célèbre la crème glacée, ce plaisir rafraîchissant universel. Du cornet de glace à la coupe glacée extravagante, chaque saveur raconte une histoire de douceur et d'été.",
       "slogan_fr": "La vie est comme une glace : savourez avant qu'elle fonde.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/ice-cream-day.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/ice-cream-day.jpg",
+      "dateRule": "3rd sunday july"
     },
     {
       "id": "world-chess-day",
@@ -9432,7 +9570,7 @@
       "name": "International Beer Day",
       "name_de": "Internationaler Biertag",
       "name_tr": "Uluslararası Bira Günü",
-      "date": "08-01",
+      "date": null,
       "year": null,
       "isRecurring": true,
       "categories": [
@@ -9463,7 +9601,8 @@
       "name_fr": "Journée internationale de la bière",
       "description_fr": "La Journée internationale de la bière, le premier vendredi d'août, célèbre cette boisson ancestrale présente dans presque toutes les cultures. Des bières artisanales aux lagers industrielles, c'est une journée pour lever un verre entre amis.",
       "slogan_fr": "Santé ! Prost ! Cheers !",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-beer-day.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-beer-day.jpg",
+      "dateRule": "1st friday august"
     },
     {
       "id": "world-wide-web-day",
@@ -9500,42 +9639,6 @@
       "description_fr": "La Journée du World Wide Web, le 1er août, commémore la création du web par Tim Berners-Lee en 1991. Cette invention a révolutionné la communication mondiale et transformé chaque aspect de nos vies modernes.",
       "slogan_fr": "Le web : l'encyclopédie mondiale ouverte à tous.",
       "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-wide-web-day.jpg"
-    },
-    {
-      "id": "international-beer-day",
-      "name": "International Beer Day",
-      "name_de": "Internationaler Biertag",
-      "name_tr": "Uluslararası Bira Günü",
-      "date": "08-02",
-      "year": null,
-      "isRecurring": true,
-      "categories": [
-        "food"
-      ],
-      "scope": "global",
-      "countries": [],
-      "description": "International Beer Day is celebrated on the first Friday of August to bring people together to enjoy and celebrate beer, and to honor brewers and beer servers.",
-      "description_de": "Der Internationale Biertag wird am ersten Freitag im August gefeiert, um Menschen zusammenzubringen, Bier zu genießen und Brauer zu ehren.",
-      "description_tr": "Uluslararası Bira Günü, insanları bira zevkini paylaşmak, kutlamak ve biracıları onurlandırmak için bir araya getirmek amacıyla Ağustos'un ilk Cuma günü kutlanır.",
-      "slogan": "Raise a Glass to the World",
-      "slogan_de": "Ein Glas auf die Welt erheben",
-      "slogan_tr": "Dünyaya Kadeh Kaldırın",
-      "hashtags": [
-        "#InternationalBeerDay",
-        "#BeerDay",
-        "#Cheers"
-      ],
-      "emoji": "🥂",
-      "colorHex": "#A16207",
-      "gradientStart": "#A16207",
-      "gradientEnd": "#FEF08A",
-      "name_es": "Día Internacional de la Cerveza",
-      "description_es": "El Día Internacional de la Cerveza se celebra el primer viernes de agosto para reunir a las personas y disfrutar y celebrar la cerveza, y para honrar a los cerveceros y camareros.",
-      "slogan_es": "Brinda con el mundo.",
-      "name_fr": "Journée internationale de la bière",
-      "description_fr": "La Journée internationale de la bière rassemble amateurs et brasseurs pour célébrer l'art brassicole dans le monde entier. Elle promeut le partage convivial et la découverte des innombrables styles de bières artisanales.",
-      "slogan_fr": "À la vôtre !",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/international-beer-day.jpg"
     },
     {
       "id": "world-watermelon-day",
@@ -10888,11 +10991,47 @@
       "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/roald-dahl-day.jpg"
     },
     {
+      "id": "bald-is-beautiful-day",
+      "name": "Bald is Beautiful Day",
+      "name_de": "Kahl ist schön Tag",
+      "name_tr": "Kel Olmak Güzeldir Günü",
+      "name_es": "Día Calvo es Hermoso",
+      "name_fr": "Journée du Chauve c'est Beau",
+      "date": "09-13",
+      "year": null,
+      "isRecurring": true,
+      "categories": [
+        "fun"
+      ],
+      "scope": "global",
+      "countries": [],
+      "description": "Bald is Beautiful Day on September 13 celebrates the confidence and pride of bald people everywhere. It challenges beauty norms and champions the idea that hairlessness is not a flaw — it's a feature.",
+      "description_de": "Der Tag \"Kahl ist schön\" am 13. September feiert das Selbstbewusstsein und den Stolz von Glatzenträgern weltweit und hinterfragt gängige Schönheitsnormen.",
+      "description_tr": "13 Eylül Kel Olmak Güzeldir Günü, saçsızlığın bir kusur değil bir özellik olduğunu savunarak dünyanın dört bir yanındaki kel bireylerin özgüvenini ve gururunu kutlar.",
+      "description_es": "El Día Calvo es Hermoso, el 13 de septiembre, celebra la confianza y el orgullo de las personas calvas en todo el mundo, desafiando los estándares de belleza.",
+      "description_fr": "La journée \"Chauve c'est Beau\", le 13 septembre, célèbre la confiance et la fierté des personnes chauves, remettant en question les normes de beauté conventionnelles.",
+      "slogan": "No hair, no problem — shine on!",
+      "slogan_de": "Kein Haar, kein Problem — glänz weiter!",
+      "slogan_tr": "Saç yok, sorun yok — parlamaya devam!",
+      "slogan_es": "¡Sin pelo, sin problema — sigue brillando!",
+      "slogan_fr": "Pas de cheveux, pas de problème — continue à briller !",
+      "emoji": "🧑‍🦲",
+      "colorHex": "#FF6B35",
+      "gradientStart": "#FF6B35",
+      "gradientEnd": "#FFD93D",
+      "hashtags": [
+        "#BaldIsBeautiful",
+        "#BaldAndProud",
+        "#KelOlmakGüzeldir"
+      ],
+      "image_url": null
+    },
+    {
       "id": "world-first-aid-day",
       "name": "World First Aid Day",
       "name_de": "Welt-Erste-Hilfe-Tag",
       "name_tr": "Dünya İlk Yardım Günü",
-      "date": "09-14",
+      "date": null,
       "year": null,
       "isRecurring": true,
       "categories": [
@@ -10921,7 +11060,8 @@
       "name_fr": "Journée mondiale des premiers secours",
       "description_fr": "La Journée mondiale des premiers secours, le deuxième samedi de septembre, sensibilise à l'importance de connaître les gestes de premiers secours. Savoir réagir face à un arrêt cardiaque ou une hémorragie peut sauver une vie.",
       "slogan_fr": "Apprenez les gestes qui sauvent.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-first-aid-day.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-first-aid-day.jpg",
+      "dateRule": "2nd saturday september"
     },
     {
       "id": "democracy-day",
@@ -11041,7 +11181,7 @@
       "name": "Federal Fast (Switzerland)",
       "name_de": "Eidgenössischer Dank-, Buss- und Bettag",
       "name_tr": "İsviçre Federal Oruç Günü",
-      "date": "09-16",
+      "date": null,
       "year": null,
       "isRecurring": true,
       "categories": [
@@ -11074,7 +11214,8 @@
       "name_fr": "Jeûne fédéral suisse",
       "description_fr": "Le Jeûne fédéral suisse, le troisième dimanche de septembre, est une journée de prière, de méditation et de solidarité célébrée dans les cantons protestants. Reconnu comme fête nationale officieuse, il invite à la réflexion sur la communauté nationale.",
       "slogan_fr": "Réfléchir, prier, partager.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/switzerland-federal-fast.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/switzerland-federal-fast.jpg",
+      "dateRule": "3rd sunday september"
     },
     {
       "id": "world-patient-safety-day",
@@ -12270,7 +12411,7 @@
       "name": "World Smile Day",
       "name_de": "Welt-Lächel-Tag",
       "name_tr": "Dünya Gülümseme Günü",
-      "date": "10-04",
+      "date": null,
       "year": null,
       "isRecurring": true,
       "categories": [
@@ -12300,7 +12441,8 @@
       "name_fr": "Journée mondiale du sourire",
       "description_fr": "La Journée mondiale du sourire, le premier vendredi d'octobre, est née de la tradition de Harvey Ball, créateur du smiley. Elle invite chacun à faire quelque chose de gentil pour mettre le sourire sur les lèvres d'un autre.",
       "slogan_fr": "Un sourire illumine le monde.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-smile-day.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-smile-day.jpg",
+      "dateRule": "1st friday october"
     },
     {
       "id": "st-francis-of-assisi-feast-day",
@@ -12418,7 +12560,7 @@
       "name": "World Habitat Day",
       "name_de": "Welt-Habitat-Tag",
       "name_tr": "Dünya Habitat Günü",
-      "date": "10-07",
+      "date": null,
       "year": null,
       "isRecurring": true,
       "categories": [
@@ -12449,14 +12591,15 @@
       "name_fr": "Journée mondiale de l'habitat",
       "description_fr": "La Journée mondiale de l'habitat, le premier lundi d'octobre, réfléchit à l'état des villes et des habitats humains. Elle rappelle que des logements décents et des villes durables sont essentiels au bien-être et à la dignité de tous.",
       "slogan_fr": "Un logement décent, un droit universel.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-habitat-day.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-habitat-day.jpg",
+      "dateRule": "1st monday october"
     },
     {
       "id": "world-architecture-day",
       "name": "World Architecture Day",
       "name_de": "Weltarchitekturtag",
       "name_tr": "Dünya Mimarlık Günü",
-      "date": "10-07",
+      "date": null,
       "year": null,
       "isRecurring": true,
       "categories": [
@@ -12487,7 +12630,8 @@
       "name_fr": "Journée mondiale de l'architecture",
       "description_fr": "La Journée mondiale de l'architecture, le premier lundi d'octobre, célèbre cet art qui façonne notre cadre de vie. Elle invite à réfléchir à la relation entre l'architecture, le développement durable et le bien-être des populations.",
       "slogan_fr": "L'architecture : sculpter l'espace, habiter le monde.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-architecture-day.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-architecture-day.jpg",
+      "dateRule": "1st monday october"
     },
     {
       "id": "world-post-day",
@@ -12679,7 +12823,7 @@
       "name": "World Egg Day",
       "name_de": "Welt-Ei-Tag",
       "name_tr": "Dünya Yumurta Günü",
-      "date": "10-11",
+      "date": null,
       "year": null,
       "isRecurring": true,
       "categories": [
@@ -12708,7 +12852,8 @@
       "name_fr": "Journée mondiale de l'œuf",
       "description_fr": "La Journée mondiale de l'œuf, le deuxième vendredi d'octobre, célèbre cet aliment universel riche en protéines et vitamines. De l'œuf brouillé au soufflé, l'œuf est l'ingrédient polyvalent par excellence dans toutes les cuisines du monde.",
       "slogan_fr": "L'œuf : parfait, simple, délicieux.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-egg-day.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-egg-day.jpg",
+      "dateRule": "2nd friday october"
     },
     {
       "id": "national-coming-out-day",
@@ -12751,7 +12896,7 @@
       "name": "World Sight Day",
       "name_de": "Welt-Sehtag",
       "name_tr": "Dünya Görme Günü",
-      "date": "10-12",
+      "date": null,
       "year": null,
       "isRecurring": true,
       "categories": [
@@ -12781,7 +12926,8 @@
       "name_fr": "Journée mondiale de la vue",
       "description_fr": "La Journée mondiale de la vue, le deuxième jeudi d'octobre, sensibilise aux déficiences visuelles évitables et aux solutions existantes. Plus d'un milliard de personnes souffrent de déficiences visuelles faute d'accès aux soins oculaires.",
       "slogan_fr": "La vue : un don à préserver.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-sight-day.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-sight-day.jpg",
+      "dateRule": "2nd thursday october"
     },
     {
       "id": "spain-national-day",
@@ -12821,6 +12967,42 @@
       "description_fr": "La Fête nationale de l'Espagne, le 12 octobre, commémore l'arrivée de Christophe Colomb aux Amériques en 1492. Marquée par un défilé militaire à Madrid, elle célèbre l'hispanité et les liens entre l'Espagne et l'Amérique latine.",
       "slogan_fr": "¡Viva España !",
       "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/spain-national-day.jpg"
+    },
+    {
+      "id": "bald-and-free-day",
+      "name": "Bald and Free Day",
+      "name_de": "Kahl und Frei Tag",
+      "name_tr": "Kel ve Özgür Ol Günü",
+      "name_es": "Día Calvo y Libre",
+      "name_fr": "Journée Chauve et Libre",
+      "date": "10-14",
+      "year": null,
+      "isRecurring": true,
+      "categories": [
+        "fun"
+      ],
+      "scope": "global",
+      "countries": [],
+      "description": "Bald and Free Day on October 14 takes it a step further — it's a day to fully embrace, celebrate, and flaunt baldness without reservation. Whether naturally bald or shaved by choice, today is your day.",
+      "description_de": "Kahl und Frei Tag am 14. Oktober geht noch weiter — ein Tag, um Glatzenträgern vollständig zu feiern und die Kahlheit ohne Vorbehalt zur Schau zu stellen.",
+      "description_tr": "14 Ekim Kel ve Özgür Ol Günü, kel olmayı çekinmeden kutlayan ve benimseyen bir gündür. İster doğal ister tercihen saçsız ol — bugün senin günün.",
+      "description_es": "El Día Calvo y Libre, el 14 de octubre, va un paso más allá: es un día para abrazar, celebrar y lucir la calvicie sin reservas.",
+      "description_fr": "La Journée Chauve et Libre, le 14 octobre, va encore plus loin — un jour pour embrasser, célébrer et arborer la calvitie sans retenue.",
+      "slogan": "Free your head, free your mind.",
+      "slogan_de": "Befreie deinen Kopf, befreie deinen Geist.",
+      "slogan_tr": "Başını özgür bırak, zihnini özgür bırak.",
+      "slogan_es": "Libera tu cabeza, libera tu mente.",
+      "slogan_fr": "Libère ta tête, libère ton esprit.",
+      "emoji": "🧑‍🦲",
+      "colorHex": "#5C35C8",
+      "gradientStart": "#5C35C8",
+      "gradientEnd": "#A78BFA",
+      "hashtags": [
+        "#BaldAndFree",
+        "#KelVeÖzgür",
+        "#BaldPride"
+      ],
+      "image_url": null
     },
     {
       "id": "global-handwashing-day",
@@ -14927,7 +15109,7 @@
       "name": "World Philosophy Day",
       "name_de": "Weltphilosophietag",
       "name_tr": "Dünya Felsefe Günü",
-      "date": "11-21",
+      "date": null,
       "year": null,
       "isRecurring": true,
       "categories": [
@@ -14957,7 +15139,8 @@
       "name_fr": "Journée mondiale de la philosophie",
       "description_fr": "La Journée mondiale de la philosophie, le troisième jeudi de novembre, invite à réfléchir aux grandes questions humaines. Elle promeut le dialogue philosophique comme outil de compréhension du monde et de résolution des conflits.",
       "slogan_fr": "Penser, c'est résister.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-philosophy-day.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-philosophy-day.jpg",
+      "dateRule": "3rd thursday november"
     },
     {
       "id": "world-hello-day",
@@ -15076,7 +15259,7 @@
       "name": "Thanksgiving Day (USA)",
       "name_de": "Thanksgiving (USA)",
       "name_tr": "Şükran Günü (ABD)",
-      "date": "11-28",
+      "date": null,
       "year": null,
       "isRecurring": true,
       "categories": [
@@ -15110,7 +15293,8 @@
       "name_fr": "Jour de Thanksgiving (États-Unis)",
       "description_fr": "Le Thanksgiving américain, le quatrième jeudi de novembre, est une fête de gratitude célébrée en famille autour d'une dinde rôtie. Héritée des pèlerins du Mayflower et de leur première récolte en 1621, elle est devenue le symbole de la convivialité américaine.",
       "slogan_fr": "Soyons reconnaissants pour tout ce que nous avons.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/thanksgiving-usa.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/thanksgiving-usa.jpg",
+      "dateRule": "4th thursday november"
     },
     {
       "id": "computer-security-day",
