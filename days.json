@@ -1,10 +1,10 @@
 {
-  "version": 87,
+  "version": 88,
   "summary": {
-    "total": 497,
+    "total": 498,
     "by_scope": {
       "global": 358,
-      "national": 127,
+      "national": 128,
       "regional": 12
     },
     "by_category": {
@@ -17,8 +17,8 @@
       "science-tech": 40,
       "food": 39,
       "sports": 17,
-      "animals": 4,
-      "community": 3,
+      "animals": 5,
+      "community": 4,
       "awareness": 2,
       "science": 2,
       "social": 2,
@@ -8562,6 +8562,45 @@
       "description_fr": "La Fête de l'Indépendance américaine, le 4 juillet, commémore la Déclaration d'indépendance de 1776 qui marqua la naissance des États-Unis. Feux d'artifice, barbecues et défilés célèbrent les valeurs de liberté et de démocratie.",
       "slogan_fr": "Life, liberty, and the pursuit of happiness.",
       "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/independence-day-usa.jpg"
+    },
+    {
+      "id": "pet-remembrance-day",
+      "name": "Pet Remembrance Day",
+      "name_de": "Tag des Gedenkens an Haustiere",
+      "name_tr": "Evcil Hayvan Anma Günü",
+      "name_es": "Día del Recuerdo de las Mascotas",
+      "name_fr": "Journée du souvenir des animaux de compagnie",
+      "date": "07-05",
+      "year": null,
+      "isRecurring": true,
+      "categories": [
+        "animals",
+        "community"
+      ],
+      "scope": "national",
+      "countries": [
+        "GB"
+      ],
+      "description": "Pet Remembrance Day on July 5 honours the beloved animals we've lost and the unforgettable bond we shared with them. A day to look back on cherished memories and celebrate the pawprint they left on our hearts forever.",
+      "description_de": "Der Tag des Gedenkens an Haustiere am 5. Juli ehrt die geliebten Tiere, die wir verloren haben, und die unvergessliche Bindung, die wir mit ihnen geteilt haben.",
+      "description_tr": "5 Temmuz'daki Evcil Hayvan Anma Günü, kaybettiğimiz sevgili hayvanları ve onlarla paylaştığımız unutulmaz bağı onurlandırır. Kalpte bıraktıkları izleri anmak için bir gün.",
+      "description_es": "El Día del Recuerdo de las Mascotas, el 5 de julio, honra a los animales queridos que hemos perdido y el vínculo inolvidable que compartimos con ellos.",
+      "description_fr": "La Journée du souvenir des animaux de compagnie, le 5 juillet, honore les animaux bien-aimés que nous avons perdus et le lien inoubliable que nous avons partagé avec eux.",
+      "slogan": "Their pawprints stay on our hearts forever.",
+      "slogan_de": "Ihre Pfotenabdrücke bleiben für immer in unseren Herzen.",
+      "slogan_tr": "Pençe izleri sonsuza dek kalbimizde kalır.",
+      "slogan_es": "Sus huellas permanecen en nuestros corazones para siempre.",
+      "slogan_fr": "Leurs empreintes restent à jamais dans nos cœurs.",
+      "hashtags": [
+        "#PetRemembranceDay",
+        "#RainbowBridge",
+        "#PetLoss",
+        "#ForeverInOurHearts"
+      ],
+      "emoji": "🌈",
+      "colorHex": "#7C3AED",
+      "gradientStart": "#7C3AED",
+      "gradientEnd": "#93C5FD"
     },
     {
       "id": "world-chocolate-day",
