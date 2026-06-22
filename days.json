@@ -1,5 +1,5 @@
 {
-  "version": 91,
+  "version": 93,
   "summary": {
     "total": 499,
     "by_scope": {
@@ -7988,7 +7988,8 @@
       "emoji": "💋",
       "colorHex": "#E11D48",
       "gradientStart": "#E11D48",
-      "gradientEnd": "#FB7185"
+      "gradientEnd": "#FB7185",
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/national-kissing-day-v1.jpg"
     },
     {
       "id": "international-being-you-day",
