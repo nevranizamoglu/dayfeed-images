@@ -1,9 +1,9 @@
 {
-  "version": 85,
+  "version": 86,
   "summary": {
-    "total": 495,
+    "total": 496,
     "by_scope": {
-      "global": 357,
+      "global": 358,
       "national": 126,
       "regional": 12
     },
@@ -11,14 +11,14 @@
       "culture": 140,
       "national": 102,
       "human-rights": 95,
-      "fun": 84,
+      "fun": 85,
       "health": 75,
       "environment": 62,
       "science-tech": 40,
       "food": 39,
       "sports": 17,
+      "animals": 3,
       "community": 3,
-      "animals": 2,
       "awareness": 2,
       "science": 2,
       "social": 2,
@@ -8062,6 +8062,43 @@
       "description_fr": "La Journée olympique internationale, le 23 juin, commémore la fondation du Comité International Olympique en 1894. Elle célèbre le mouvement olympique et ses valeurs d'excellence, de respect et d'amitié à travers des activités sportives dans le monde entier.",
       "slogan_fr": "Plus vite, plus haut, plus fort — ensemble.",
       "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/olympic-day-v2.jpg"
+    },
+    {
+      "id": "cat-world-domination-day",
+      "name": "Cat World Domination Day",
+      "name_de": "Tag der Weltherrschaft der Katzen",
+      "name_tr": "Kedilerin Dünya Hakimiyeti Günü",
+      "name_es": "Día de la Dominación Mundial de los Gatos",
+      "name_fr": "Journée de la domination mondiale des chats",
+      "date": "06-24",
+      "year": null,
+      "isRecurring": true,
+      "categories": [
+        "fun",
+        "animals"
+      ],
+      "scope": "global",
+      "countries": [],
+      "description": "Cat World Domination Day on June 24 is a playful celebration of cats' quiet control over their households — and possibly the world. Cats don't ask for power; they already have it. Give your feline overlord the worship they deserve.",
+      "description_de": "Der Tag der Weltherrschaft der Katzen am 24. Juni feiert spielerisch die stille Kontrolle der Katzen über ihre Haushalte — und vielleicht die ganze Welt. Huldig deinem felinen Oberherrn!",
+      "description_tr": "24 Haziran'daki Kedilerin Dünya Hakimiyeti Günü, kedilerin ev üzerindeki sessiz egemenliğini eğlenceli bir şekilde kutlar. Kediler güç istemez; zaten sahiptirler. Tüylü efendinize layık saygıyı gösterin.",
+      "description_es": "El Día de la Dominación Mundial de los Gatos, el 24 de junio, celebra de forma divertida el silencioso control de los gatos sobre sus hogares. Los gatos no piden el poder; ya lo tienen.",
+      "description_fr": "La Journée de la domination mondiale des chats, le 24 juin, célèbre avec humour le contrôle silencieux des chats sur leurs foyers. Les chats ne demandent pas le pouvoir — ils l'ont déjà.",
+      "slogan": "Their silence speaks louder than barking ever could.",
+      "slogan_de": "Ihr Schweigen sagt mehr als jedes Bellen.",
+      "slogan_tr": "Sessizlikleri havlamadan daha yüksek sesle konuşur.",
+      "slogan_es": "Su silencio habla más fuerte que cualquier ladrido.",
+      "slogan_fr": "Leur silence parle plus fort que n'importe quel aboiement.",
+      "hashtags": [
+        "#CatWorldDominationDay",
+        "#CatsOfInstagram",
+        "#CatLovers",
+        "#Caturday"
+      ],
+      "emoji": "😼",
+      "colorHex": "#6D28D9",
+      "gradientStart": "#6D28D9",
+      "gradientEnd": "#A78BFA"
     },
     {
       "id": "world-drug-day",
