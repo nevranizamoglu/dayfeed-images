@@ -1,5 +1,5 @@
 {
-  "version": 93,
+  "version": 95,
   "summary": {
     "total": 499,
     "by_scope": {
@@ -8100,7 +8100,8 @@
       "emoji": "😼",
       "colorHex": "#6D28D9",
       "gradientStart": "#6D28D9",
-      "gradientEnd": "#A78BFA"
+      "gradientEnd": "#A78BFA",
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/cat-world-domination-day-v1.jpg"
     },
     {
       "id": "take-your-dog-to-work-day",
