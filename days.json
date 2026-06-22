@@ -1,14 +1,14 @@
 {
-  "version": 97,
+  "version": 98,
   "summary": {
-    "total": 499,
+    "total": 502,
     "by_scope": {
-      "global": 359,
-      "national": 128,
+      "global": 361,
+      "national": 129,
       "regional": 12
     },
     "by_category": {
-      "culture": 140,
+      "culture": 141,
       "national": 102,
       "human-rights": 95,
       "fun": 87,
@@ -17,8 +17,8 @@
       "science-tech": 40,
       "food": 39,
       "sports": 17,
-      "animals": 5,
-      "community": 5,
+      "animals": 8,
+      "community": 8,
       "awareness": 2,
       "science": 2,
       "social": 2,
@@ -7166,6 +7166,54 @@
       "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/philippines-independence-day.jpg"
     },
     {
+      "id": "world-pet-memorial-day",
+      "name": "World Pet Memorial Day",
+      "name_de": "Welt-Haustiererinnerungstag",
+      "name_tr": "Dünya Evcil Hayvan Anma Günü",
+      "name_es": "Día Mundial del Recuerdo de las Mascotas",
+      "name_fr": "Journée mondiale du souvenir des animaux de compagnie",
+      "date": null,
+      "year": null,
+      "isRecurring": true,
+      "dateRule": "2nd Tuesday of June",
+      "occurrences": [
+        "2023-06-13",
+        "2024-06-11",
+        "2025-06-10",
+        "2026-06-09",
+        "2027-06-08",
+        "2028-06-13",
+        "2029-06-12",
+        "2030-06-11"
+      ],
+      "categories": [
+        "animals",
+        "community"
+      ],
+      "scope": "global",
+      "countries": [],
+      "description": "World Pet Memorial Day, observed on the second Tuesday of June, is a global day to honour the memory of beloved pets who have passed. It's a time to celebrate the unconditional love they gave and the joy they brought into our lives.",
+      "description_de": "Der Welt-Haustiererinnerungstag, der am zweiten Dienstag im Juni begangen wird, ehrt die Erinnerung an geliebte Haustiere, die von uns gegangen sind.",
+      "description_tr": "Haziran'ın ikinci Salı günü kutlanan Dünya Evcil Hayvan Anma Günü, hayatımızdan ayrılan sevgili hayvanlarımızın anısını onurlandırmak için küresel bir gündür.",
+      "description_es": "El Día Mundial del Recuerdo de las Mascotas, observado el segundo martes de junio, es un día para honrar la memoria de las mascotas queridas que han fallecido.",
+      "description_fr": "La Journée mondiale du souvenir des animaux de compagnie, le deuxième mardi de juin, est un jour pour honorer la mémoire des animaux bien-aimés qui nous ont quittés.",
+      "slogan": "Their love leaves paw prints on our hearts forever.",
+      "slogan_de": "Ihre Liebe hinterlässt Pfotenabdrücke in unseren Herzen für immer.",
+      "slogan_tr": "Sevgileri kalpte pençe izleri bırakır sonsuza dek.",
+      "slogan_es": "Su amor deja huellas en nuestros corazones para siempre.",
+      "slogan_fr": "Leur amour laisse des empreintes dans nos cœurs pour toujours.",
+      "hashtags": [
+        "#WorldPetMemorialDay",
+        "#RainbowBridge",
+        "#PetLoss",
+        "#ForeverInOurHearts"
+      ],
+      "emoji": "🌈",
+      "colorHex": "#7C3AED",
+      "gradientStart": "#7C3AED",
+      "gradientEnd": "#93C5FD"
+    },
+    {
       "id": "blood-donor-day",
       "name": "World Blood Donor Day",
       "name_de": "Weltblutspendetag",
@@ -11271,6 +11319,56 @@
       "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/literacy-day.jpg"
     },
     {
+      "id": "national-pet-memorial-day",
+      "name": "National Pet Memorial Day",
+      "name_de": "Nationaler Haustiererinnerungstag",
+      "name_tr": "Ulusal Evcil Hayvan Anma Günü",
+      "name_es": "Día Nacional del Recuerdo de las Mascotas",
+      "name_fr": "Journée nationale du souvenir des animaux de compagnie",
+      "date": null,
+      "year": null,
+      "isRecurring": true,
+      "dateRule": "2nd Sunday of September",
+      "occurrences": [
+        "2023-09-10",
+        "2024-09-08",
+        "2025-09-14",
+        "2026-09-13",
+        "2027-09-12",
+        "2028-09-10",
+        "2029-09-09",
+        "2030-09-08"
+      ],
+      "categories": [
+        "animals",
+        "community"
+      ],
+      "scope": "national",
+      "countries": [
+        "US"
+      ],
+      "description": "National Pet Memorial Day, observed on the second Sunday of September in the US, is a day to remember and celebrate the lives of pets who have passed. Light a candle, visit a favourite spot, or share a memory to keep their spirit alive.",
+      "description_de": "Der Nationale Haustiererinnerungstag, der am zweiten Sonntag im September begangen wird, ist ein Tag, um die Leben der Haustiere zu gedenken, die von uns gegangen sind.",
+      "description_tr": "Eylül'ün ikinci Pazarında kutlanan Ulusal Evcil Hayvan Anma Günü, hayatımızdan ayrılan hayvanlarımızı anmak için ayrılmış bir gündür.",
+      "description_es": "El Día Nacional del Recuerdo de las Mascotas, el segundo domingo de septiembre, es un día para recordar y celebrar las vidas de las mascotas que han fallecido.",
+      "description_fr": "La Journée nationale du souvenir des animaux de compagnie, le deuxième dimanche de septembre, est un jour pour se souvenir et célébrer la vie des animaux qui nous ont quittés.",
+      "slogan": "Gone but never forgotten — always in our hearts.",
+      "slogan_de": "Gegangen, aber nie vergessen — immer in unseren Herzen.",
+      "slogan_tr": "Gitmiş ama unutulmamış — her zaman kalpte.",
+      "slogan_es": "Idos pero nunca olvidados — siempre en nuestros corazones.",
+      "slogan_fr": "Partis mais jamais oubliés — toujours dans nos cœurs.",
+      "hashtags": [
+        "#NationalPetMemorialDay",
+        "#PetLoss",
+        "#RainbowBridge",
+        "#RememberingPets"
+      ],
+      "emoji": "🕯️",
+      "colorHex": "#6D28D9",
+      "gradientStart": "#6D28D9",
+      "gradientEnd": "#C4B5FD"
+    },
+    {
       "id": "world-suicide-prevention-day",
       "name": "World Suicide Prevention Day",
       "name_de": "Welt-Suizidpräventionstag",
@@ -14024,6 +14122,44 @@
       "description_fr": "La Fête nationale de l'Autriche, le 26 octobre, commémore la déclaration de neutralité permanente de l'Autriche en 1955. Ce principe fondateur de la diplomatie autrichienne est célébré avec des cérémonies officielles et des événements culturels.",
       "slogan_fr": "Autriche : neutralité et culture au cœur de l'Europe.",
       "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/austria-national-day.jpg"
+    },
+    {
+      "id": "pet-day-of-the-dead",
+      "name": "Pet Day of the Dead",
+      "name_de": "Tag der Toten für Haustiere",
+      "name_tr": "Evcil Hayvanlar Ölüler Günü",
+      "name_es": "Día de los Muertos de las Mascotas",
+      "name_fr": "Jour des Morts des animaux de compagnie",
+      "date": "10-27",
+      "year": null,
+      "isRecurring": true,
+      "categories": [
+        "animals",
+        "culture",
+        "community"
+      ],
+      "scope": "global",
+      "countries": [],
+      "description": "On October 27, families create a small ofrenda — an altar with photos, favourite toys, and treats — to welcome the spirits of their passed pets home for Día de los Muertos. A beautiful tradition that celebrates the bond between humans and animals beyond life.",
+      "description_de": "Am 27. Oktober errichten Familien einen kleinen Altar mit Fotos und Lieblingsspielzeug, um die Geister ihrer verstorbenen Haustiere für den Día de los Muertos willkommen zu heißen.",
+      "description_tr": "27 Ekim'de aileler, Ölüler Günü için hayatını kaybeden evcil hayvanlarının ruhlarını karşılamak üzere fotoğraflar ve sevilen oyuncaklarla küçük bir sunak oluşturur.",
+      "description_es": "El 27 de octubre, las familias crean una pequeña ofrenda con fotos y juguetes favoritos para dar la bienvenida a los espíritus de sus mascotas fallecidas en el Día de los Muertos.",
+      "description_fr": "Le 27 octobre, les familles créent un petit autel avec des photos et des jouets préférés pour accueillir les esprits de leurs animaux décédés pour le Día de los Muertos.",
+      "slogan": "Their spirit returns — light a candle, share a memory.",
+      "slogan_de": "Ihr Geist kehrt zurück — zünde eine Kerze an, teile eine Erinnerung.",
+      "slogan_tr": "Ruhları geri döner — bir mum yak, bir anı paylaş.",
+      "slogan_es": "Su espíritu regresa — enciende una vela, comparte un recuerdo.",
+      "slogan_fr": "Leur esprit revient — allume une bougie, partage un souvenir.",
+      "hashtags": [
+        "#PetDayOfTheDead",
+        "#DiaDeLosMusertosMascotas",
+        "#PetOfrenda",
+        "#RainbowBridge"
+      ],
+      "emoji": "🦴",
+      "colorHex": "#B45309",
+      "gradientStart": "#B45309",
+      "gradientEnd": "#FDE68A"
     },
     {
       "id": "greece-ochi-day",
