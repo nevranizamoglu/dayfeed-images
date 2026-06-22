@@ -1,17 +1,17 @@
 {
-  "version": 83,
+  "version": 84,
   "summary": {
-    "total": 493,
+    "total": 494,
     "by_scope": {
       "global": 356,
-      "national": 125,
+      "national": 126,
       "regional": 12
     },
     "by_category": {
-      "culture": 139,
+      "culture": 140,
       "national": 102,
       "human-rights": 95,
-      "fun": 82,
+      "fun": 83,
       "health": 75,
       "environment": 62,
       "science-tech": 40,
@@ -7949,6 +7949,45 @@
       "description_fr": "La Journée mondiale de la forêt tropicale, le 22 juin, sensibilise à l'importance des forêts tropicales, qui abritent plus de la moitié des espèces terrestres et régulent le climat de la planète. Elle appelle à stopper leur destruction.",
       "slogan_fr": "La forêt tropicale : trésor de la biodiversité.",
       "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-rainforest-day-v2.jpg"
+    },
+    {
+      "id": "national-kissing-day",
+      "name": "National Kissing Day",
+      "name_de": "Nationaler Kuss-Tag",
+      "name_tr": "Ulusal Öpücük Günü",
+      "name_es": "Día Nacional del Beso",
+      "name_fr": "Journée nationale du baiser",
+      "date": "06-22",
+      "year": null,
+      "isRecurring": true,
+      "categories": [
+        "fun",
+        "culture"
+      ],
+      "scope": "national",
+      "countries": [
+        "US"
+      ],
+      "description": "National Kissing Day on June 22 celebrates the joy of kissing — romantic, friendly, or familial — and explores its history, health benefits, and cultural significance. A perfect day to show your loved ones some affection.",
+      "description_de": "Der nationale Kuss-Tag am 22. Juni feiert die Freude am Küssen und lädt dazu ein, Zuneigung zu zeigen, die Geschichte des Kusses zu entdecken und seine gesundheitlichen Vorteile zu genießen.",
+      "description_tr": "22 Haziran'daki Ulusal Öpücük Günü, öpücüğün sevincini kutlar ve sevdiklerinize şefkat göstermenizi, öpücüğün tarihini ve sağlık faydalarını keşfetmenizi teşvik eder.",
+      "description_es": "El Día Nacional del Beso, el 22 de junio, celebra la alegría de besar y anima a mostrar afecto a los seres queridos mientras se explora la historia y los beneficios del beso.",
+      "description_fr": "La Journée nationale du baiser, le 22 juin, célèbre la joie d'embrasser et invite à montrer son affection à ses proches tout en découvrant l'histoire et les bienfaits du baiser.",
+      "slogan": "Everyone deserves a kiss today!",
+      "slogan_de": "Heute verdient jeder einen Kuss!",
+      "slogan_tr": "Bugün herkes bir öpücüğü hak ediyor!",
+      "slogan_es": "¡Todo el mundo merece un beso hoy!",
+      "slogan_fr": "Tout le monde mérite un baiser aujourd'hui !",
+      "hashtags": [
+        "#NationalKissingDay",
+        "#KissingDay",
+        "#Kiss",
+        "#Love"
+      ],
+      "emoji": "💋",
+      "colorHex": "#E11D48",
+      "gradientStart": "#E11D48",
+      "gradientEnd": "#FB7185"
     },
     {
       "id": "olympic-day",
