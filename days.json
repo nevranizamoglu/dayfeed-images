@@ -1,23 +1,23 @@
 {
-  "version": 86,
+  "version": 87,
   "summary": {
-    "total": 496,
+    "total": 497,
     "by_scope": {
       "global": 358,
-      "national": 126,
+      "national": 127,
       "regional": 12
     },
     "by_category": {
       "culture": 140,
       "national": 102,
       "human-rights": 95,
-      "fun": 85,
+      "fun": 86,
       "health": 75,
       "environment": 62,
       "science-tech": 40,
       "food": 39,
       "sports": 17,
-      "animals": 3,
+      "animals": 4,
       "community": 3,
       "awareness": 2,
       "science": 2,
@@ -8099,6 +8099,55 @@
       "colorHex": "#6D28D9",
       "gradientStart": "#6D28D9",
       "gradientEnd": "#A78BFA"
+    },
+    {
+      "id": "take-your-dog-to-work-day",
+      "name": "Take Your Dog to Work Day",
+      "name_de": "Bring-deinen-Hund-mit-zur-Arbeit-Tag",
+      "name_tr": "Köpeğini İşe Götür Günü",
+      "name_es": "Día de Llevar tu Perro al Trabajo",
+      "name_fr": "Journée Amenez votre chien au travail",
+      "date": null,
+      "year": null,
+      "isRecurring": true,
+      "occurrences": [
+        "2023-06-23",
+        "2024-06-21",
+        "2025-06-20",
+        "2026-06-26",
+        "2027-06-25",
+        "2028-06-23",
+        "2029-06-22",
+        "2030-06-21"
+      ],
+      "categories": [
+        "animals",
+        "fun"
+      ],
+      "scope": "national",
+      "countries": [
+        "US"
+      ],
+      "description": "Take Your Dog to Work Day, founded in 1999 by Pet Sitters International, encourages workplaces to welcome employees' dogs for the day. It celebrates the human-animal bond, promotes pet adoption, and makes the office a whole lot happier.",
+      "description_de": "Der Bring-deinen-Hund-mit-zur-Arbeit-Tag, 1999 gegründet, lädt Arbeitnehmer ein, ihre Hunde mit ins Büro zu bringen und die besondere Bindung zwischen Mensch und Tier zu feiern.",
+      "description_tr": "1999'da kurulan Köpeğini İşe Götür Günü, çalışanları köpeklerini ofise getirmeye teşvik eder; insan-hayvan bağını kutlar ve evcil hayvan sahiplenmeyi destekler.",
+      "description_es": "El Día de Llevar tu Perro al Trabajo, fundado en 1999, anima a las empresas a dar la bienvenida a los perros de sus empleados, celebrando el vínculo humano-animal y promoviendo la adopción.",
+      "description_fr": "La Journée Amenez votre chien au travail, fondée en 1999, encourage les entreprises à accueillir les chiens de leurs employés pour célébrer le lien humain-animal et promouvoir l'adoption.",
+      "slogan": "Because who ever heard of working like a cat?",
+      "slogan_de": "Wer hat je davon gehört, wie eine Katze zu arbeiten?",
+      "slogan_tr": "Kim bir kedi gibi çalışmayı duymuştur ki?",
+      "slogan_es": "¿Porque quién ha oído hablar de trabajar como un gato?",
+      "slogan_fr": "Parce que qui a entendu parler de travailler comme un chat ?",
+      "hashtags": [
+        "#TakeYourDogToWorkDay",
+        "#TYDTWDay",
+        "#DogsAtWork",
+        "#AdoptDontShop"
+      ],
+      "emoji": "🐕",
+      "colorHex": "#B45309",
+      "gradientStart": "#B45309",
+      "gradientEnd": "#FCD34D"
     },
     {
       "id": "world-drug-day",
