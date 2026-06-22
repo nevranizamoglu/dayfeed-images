@@ -1,5 +1,5 @@
 {
-  "version": 95,
+  "version": 97,
   "summary": {
     "total": 499,
     "by_scope": {
@@ -8150,7 +8150,8 @@
       "emoji": "🐕",
       "colorHex": "#B45309",
       "gradientStart": "#B45309",
-      "gradientEnd": "#FCD34D"
+      "gradientEnd": "#FCD34D",
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/take-your-dog-to-work-day-v1.jpg"
     },
     {
       "id": "world-drug-day",
