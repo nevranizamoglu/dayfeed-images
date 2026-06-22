@@ -1,5 +1,5 @@
 {
-  "version": 89,
+  "version": 91,
   "summary": {
     "total": 499,
     "by_scope": {
@@ -2660,7 +2660,8 @@
       "emoji": "🐶",
       "colorHex": "#D97706",
       "gradientStart": "#F59E0B",
-      "gradientEnd": "#FCD34D"
+      "gradientEnd": "#FCD34D",
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-puppy-day-v1.jpg"
     },
     {
       "id": "world-tb-day",
