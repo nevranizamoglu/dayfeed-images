@@ -1,9 +1,9 @@
 {
-  "version": 84,
+  "version": 85,
   "summary": {
-    "total": 494,
+    "total": 495,
     "by_scope": {
-      "global": 356,
+      "global": 357,
       "national": 126,
       "regional": 12
     },
@@ -11,17 +11,17 @@
       "culture": 140,
       "national": 102,
       "human-rights": 95,
-      "fun": 83,
+      "fun": 84,
       "health": 75,
       "environment": 62,
       "science-tech": 40,
       "food": 39,
       "sports": 17,
+      "community": 3,
       "animals": 2,
       "awareness": 2,
       "science": 2,
       "social": 2,
-      "community": 2,
       "cultural": 1,
       "fashion": 1,
       "education": 1,
@@ -7988,6 +7988,43 @@
       "colorHex": "#E11D48",
       "gradientStart": "#E11D48",
       "gradientEnd": "#FB7185"
+    },
+    {
+      "id": "international-being-you-day",
+      "name": "International Being You Day",
+      "name_de": "Internationaler Tag des Selbstseins",
+      "name_tr": "Uluslararası Kendin Ol Günü",
+      "name_es": "Día Internacional de Ser Tú Mismo",
+      "name_fr": "Journée internationale d'être soi-même",
+      "date": "06-22",
+      "year": null,
+      "isRecurring": true,
+      "categories": [
+        "fun",
+        "community"
+      ],
+      "scope": "global",
+      "countries": [],
+      "description": "International Being You Day, founded in 2021 by Dr. Dain Heer, celebrates authenticity and the courage to be your true self. It's a day to embrace your uniqueness, let go of societal pressures, and let others show up as they are too.",
+      "description_de": "Der Internationale Tag des Selbstseins, gegründet 2021 von Dr. Dain Heer, feiert Authentizität und den Mut, man selbst zu sein — und anderen die gleiche Freiheit zu lassen.",
+      "description_tr": "2021'de Dr. Dain Heer tarafından kurulan Uluslararası Kendin Ol Günü, özgünlüğü ve gerçek benliğini kucaklamayı kutlar. Toplumsal baskılardan sıyrılma ve başkalarının da kendileri olmasına izin verme günüdür.",
+      "description_es": "El Día Internacional de Ser Tú Mismo, fundado en 2021 por el Dr. Dain Heer, celebra la autenticidad y el coraje de ser quien eres, liberándote de las presiones sociales.",
+      "description_fr": "La Journée internationale d'être soi-même, fondée en 2021 par le Dr Dain Heer, célèbre l'authenticité et le courage d'être vraiment soi, en se libérant des pressions sociales.",
+      "slogan": "Being yourself is a gift.",
+      "slogan_de": "Du selbst zu sein ist ein Geschenk.",
+      "slogan_tr": "Kendin olmak bir armağandır.",
+      "slogan_es": "Ser tú mismo es un regalo.",
+      "slogan_fr": "Être soi-même est un cadeau.",
+      "hashtags": [
+        "#InternationalBeingYouDay",
+        "#BeingYou",
+        "#BeYourself",
+        "#Authenticity"
+      ],
+      "emoji": "🌟",
+      "colorHex": "#7C3AED",
+      "gradientStart": "#7C3AED",
+      "gradientEnd": "#C4B5FD"
     },
     {
       "id": "olympic-day",
