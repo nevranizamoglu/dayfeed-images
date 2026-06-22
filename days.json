@@ -1,9 +1,9 @@
 {
-  "version": 88,
+  "version": 89,
   "summary": {
-    "total": 498,
+    "total": 499,
     "by_scope": {
-      "global": 358,
+      "global": 359,
       "national": 128,
       "regional": 12
     },
@@ -11,14 +11,14 @@
       "culture": 140,
       "national": 102,
       "human-rights": 95,
-      "fun": 86,
+      "fun": 87,
       "health": 75,
       "environment": 62,
       "science-tech": 40,
       "food": 39,
       "sports": 17,
       "animals": 5,
-      "community": 4,
+      "community": 5,
       "awareness": 2,
       "science": 2,
       "social": 2,
@@ -8222,6 +8222,43 @@
       "colorHex": "#0891B2",
       "gradientStart": "#0891B2",
       "gradientEnd": "#38BDF8"
+    },
+    {
+      "id": "happy-heart-hugs-day",
+      "name": "Happy Heart Hugs Day",
+      "name_de": "Tag der Herzensumarmungen",
+      "name_tr": "Mutlu Kalp Sarılma Günü",
+      "name_es": "Día de los Abrazos del Corazón",
+      "name_fr": "Journée des câlins du cœur heureux",
+      "date": "06-28",
+      "year": null,
+      "isRecurring": true,
+      "categories": [
+        "fun",
+        "community"
+      ],
+      "scope": "global",
+      "countries": [],
+      "description": "Happy Heart Hugs Day on June 28 is dedicated to sending love and virtual hugs to the people who fill your heart with happiness but live too far away for a real embrace. Reach out with a message, a call, or a heartfelt note.",
+      "description_de": "Der Tag der Herzensumarmungen am 28. Juni ist dafür da, Liebe und virtuelle Umarmungen an die Menschen zu schicken, die dein Herz erfüllen, aber zu weit entfernt sind für eine echte Umarmung.",
+      "description_tr": "28 Haziran'daki Mutlu Kalp Sarılma Günü, kalbini mutlulukla dolduran ama sarılmak için çok uzakta olan kişilere sevgi ve sanal kucaklaşmalar göndermek için ayrılmıştır.",
+      "description_es": "El Día de los Abrazos del Corazón, el 28 de junio, está dedicado a enviar amor y abrazos virtuales a quienes llenan tu corazón de felicidad pero viven demasiado lejos para un abrazo real.",
+      "description_fr": "La Journée des câlins du cœur heureux, le 28 juin, est dédiée à envoyer de l'amour et des câlins virtuels à ceux qui remplissent votre cœur de bonheur mais vivent trop loin pour une vraie étreinte.",
+      "slogan": "Distance can't stop a heart full of love.",
+      "slogan_de": "Entfernung kann ein Herz voller Liebe nicht aufhalten.",
+      "slogan_tr": "Mesafe, sevgiyle dolu bir kalbi durduramaz.",
+      "slogan_es": "La distancia no puede detener un corazón lleno de amor.",
+      "slogan_fr": "La distance ne peut pas arrêter un cœur plein d'amour.",
+      "hashtags": [
+        "#HappyHeartHugsDay",
+        "#VirtualHugs",
+        "#LongDistanceLove",
+        "#SendLove"
+      ],
+      "emoji": "🤗",
+      "colorHex": "#DB2777",
+      "gradientStart": "#DB2777",
+      "gradientEnd": "#FBCFE8"
     },
     {
       "id": "international-tropics-day",
