@@ -1,9 +1,9 @@
 {
-  "version": 81,
+  "version": 82,
   "summary": {
-    "total": 489,
+    "total": 490,
     "by_scope": {
-      "global": 352,
+      "global": 353,
       "national": 125,
       "regional": 12
     },
@@ -11,15 +11,15 @@
       "culture": 139,
       "national": 102,
       "human-rights": 95,
-      "fun": 81,
+      "fun": 82,
       "health": 74,
       "environment": 61,
       "science-tech": 40,
       "food": 39,
       "sports": 17,
+      "animals": 2,
       "awareness": 2,
       "social": 2,
-      "animals": 1,
       "cultural": 1,
       "fashion": 1,
       "science": 1,
@@ -2622,6 +2622,43 @@
       "description_fr": "La Journée mondiale de la météorologie, le 23 mars, célèbre la fondation de l'Organisation météorologique mondiale en 1950. Elle souligne le rôle essentiel des services météorologiques dans la prévention des catastrophes et l'adaptation au changement climatique.",
       "slogan_fr": "La météo au service de l'humanité.",
       "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-meteorological-day.jpg"
+    },
+    {
+      "id": "world-puppy-day",
+      "name": "World Puppy Day",
+      "name_de": "Weltwelpentag",
+      "name_tr": "Dünya Yavru Köpek Günü",
+      "name_es": "Día Mundial del Cachorro",
+      "name_fr": "Journée mondiale des chiots",
+      "date": "03-23",
+      "year": null,
+      "isRecurring": true,
+      "categories": [
+        "animals",
+        "fun"
+      ],
+      "scope": "global",
+      "countries": [],
+      "description": "World Puppy Day, founded in 2006 by animal advocate Colleen Paige, celebrates the joy puppies bring to our lives and raises awareness about adoption and responsible pet ownership.",
+      "description_de": "Der Weltwelpentag, gegründet 2006 von Tierschützerin Colleen Paige, feiert die Freude, die Welpen uns schenken, und fördert die Adoption von Welpen.",
+      "description_tr": "Dünya Yavru Köpek Günü, 2006'da hayvan savunucusu Colleen Paige tarafından kuruldu. Yavru köpeklerin getirdiği neşeyi kutlar ve sorumlu evcil hayvan sahipliğini teşvik eder.",
+      "description_es": "El Día Mundial del Cachorro, fundado en 2006 por Colleen Paige, celebra la alegría que los cachorros traen a nuestras vidas y promueve la adopción responsable.",
+      "description_fr": "La Journée mondiale des chiots, fondée en 2006 par Colleen Paige, célèbre la joie que les chiots apportent dans nos vies et encourage l'adoption responsable.",
+      "slogan": "Adopt, Don't Shop.",
+      "slogan_de": "Adoptiere, kauf nicht.",
+      "slogan_tr": "Satın Alma, Sahiplen.",
+      "slogan_es": "Adopta, no compres.",
+      "slogan_fr": "Adoptez, n'achetez pas.",
+      "hashtags": [
+        "#WorldPuppyDay",
+        "#AdoptDontShop",
+        "#Puppies",
+        "#PuppyLove"
+      ],
+      "emoji": "🐶",
+      "colorHex": "#D97706",
+      "gradientStart": "#F59E0B",
+      "gradientEnd": "#FCD34D"
     },
     {
       "id": "world-tb-day",
