@@ -1,5 +1,5 @@
 {
-  "version": 103,
+  "version": 104,
   "summary": {
     "total": 502,
     "by_scope": {
@@ -8275,7 +8275,8 @@
       "emoji": "🏪",
       "colorHex": "#0891B2",
       "gradientStart": "#0891B2",
-      "gradientEnd": "#38BDF8"
+      "gradientEnd": "#38BDF8",
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/msme-day-v1.jpg"
     },
     {
       "id": "happy-heart-hugs-day",
