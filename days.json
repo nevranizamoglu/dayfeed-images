@@ -1,5 +1,5 @@
 {
-  "version": 104,
+  "version": 105,
   "summary": {
     "total": 502,
     "by_scope": {
@@ -8313,7 +8313,8 @@
       "emoji": "🤗",
       "colorHex": "#DB2777",
       "gradientStart": "#DB2777",
-      "gradientEnd": "#FBCFE8"
+      "gradientEnd": "#FBCFE8",
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/happy-heart-hugs-day-v1.jpg"
     },
     {
       "id": "international-tropics-day",
