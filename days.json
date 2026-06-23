@@ -1,5 +1,5 @@
 {
-  "version": 108,
+  "version": 109,
   "summary": {
     "total": 506,
     "by_scope": {
@@ -8191,7 +8191,8 @@
       "emoji": "👩‍🔧",
       "colorHex": "#0369A1",
       "gradientStart": "#0369A1",
-      "gradientEnd": "#7DD3FC"
+      "gradientEnd": "#7DD3FC",
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/international-women-in-engineering-day-v1.jpg"
     },
     {
       "id": "international-widows-day",
