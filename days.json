@@ -1,5 +1,5 @@
 {
-  "version": 107,
+  "version": 108,
   "summary": {
     "total": 506,
     "by_scope": {
@@ -8506,7 +8506,8 @@
       "emoji": "🌴",
       "colorHex": "#16A34A",
       "gradientStart": "#16A34A",
-      "gradientEnd": "#86EFAC"
+      "gradientEnd": "#86EFAC",
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/international-tropics-day-v1.jpg"
     },
     {
       "id": "social-media-day",
