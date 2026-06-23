@@ -1,5 +1,5 @@
 {
-  "version": 102,
+  "version": 103,
   "summary": {
     "total": 502,
     "by_scope": {
@@ -8237,7 +8237,8 @@
       "emoji": "🚫",
       "colorHex": "#DC2626",
       "gradientStart": "#DC2626",
-      "gradientEnd": "#F97316"
+      "gradientEnd": "#F97316",
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-drug-day-v1.jpg"
     },
     {
       "id": "msme-day",
