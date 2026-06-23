@@ -1,14 +1,14 @@
 {
-  "version": 105,
+  "version": 106,
   "summary": {
-    "total": 502,
+    "total": 503,
     "by_scope": {
-      "global": 361,
+      "global": 362,
       "national": 129,
       "regional": 12
     },
     "by_category": {
-      "culture": 141,
+      "culture": 142,
       "national": 102,
       "human-rights": 95,
       "fun": 87,
@@ -22,11 +22,12 @@
       "awareness": 2,
       "science": 2,
       "social": 2,
+      "history": 2,
       "cultural": 1,
       "fashion": 1,
       "education": 1,
+      "religion": 1,
       "business": 1,
-      "history": 1,
       "friendship": 1
     },
     "multi_day_count": 4
@@ -8113,6 +8114,44 @@
       "description_fr": "La Journée olympique internationale, le 23 juin, commémore la fondation du Comité International Olympique en 1894. Elle célèbre le mouvement olympique et ses valeurs d'excellence, de respect et d'amitié à travers des activités sportives dans le monde entier.",
       "slogan_fr": "Plus vite, plus haut, plus fort — ensemble.",
       "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/olympic-day-v2.jpg"
+    },
+    {
+      "id": "st-johns-eve",
+      "name": "St. John's Eve",
+      "name_de": "Johannisabend",
+      "name_tr": "Aziz Yuhanna Arifesi",
+      "name_es": "Fiesta de San Juan",
+      "name_fr": "Veille de la Saint-Jean",
+      "date": "06-23",
+      "year": null,
+      "isRecurring": true,
+      "categories": [
+        "culture",
+        "religion",
+        "history"
+      ],
+      "scope": "global",
+      "countries": [],
+      "description": "St. John's Eve on June 23 is a mystical night celebrating the birth of John the Baptist — one of the few saints honoured on their birth rather than death. Communities across Spain, Portugal, Scandinavia, and Latin America mark the night with bonfires, herb gathering, and water rituals, blending centuries of Christian, folk, and solstice traditions into one spectacular celebration.",
+      "description_de": "Der Johannisabend am 23. Juni feiert die Geburt Johannes des Täufers mit Feuern, Kräutersammeln und Wasserritualen — eine Vermischung aus christlicher und volkstümlicher Tradition.",
+      "description_tr": "23 Haziran'daki Aziz Yuhanna Arifesi, Vaftizci Yahya'nın doğumunu kutlar. İspanya, Portekiz ve İskandinavya'da ateş yakma, ot toplama ve su ritüelleriyle kutlanan mistik bir gece.",
+      "description_es": "La Fiesta de San Juan el 23 de junio celebra el nacimiento de Juan el Bautista con hogueras, recogida de hierbas y rituales de agua que mezclan tradiciones cristianas, populares y solsticiales.",
+      "description_fr": "La veille de la Saint-Jean, le 23 juin, célèbre la naissance de Jean-Baptiste avec des feux de joie, la cueillette d'herbes et des rituels aquatiques mêlant traditions chrétiennes et solsticiales.",
+      "slogan": "Jump the bonfire — let the midsummer magic begin.",
+      "slogan_de": "Spring über das Feuer — lass die Mittsommernacht beginnen.",
+      "slogan_tr": "Ateşin üzerinden atla — yaz ortası büyüsü başlasın.",
+      "slogan_es": "Salta la hoguera — que comience la magia de San Juan.",
+      "slogan_fr": "Saute le feu de joie — que commence la magie de la Saint-Jean.",
+      "hashtags": [
+        "#StJohnsEve",
+        "#FiestaDeSanJuan",
+        "#Midsummer",
+        "#BonfireNight"
+      ],
+      "emoji": "🔥",
+      "colorHex": "#C2410C",
+      "gradientStart": "#C2410C",
+      "gradientEnd": "#FCD34D"
     },
     {
       "id": "cat-world-domination-day",
