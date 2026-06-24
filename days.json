@@ -1,5 +1,5 @@
 {
-  "version": 113,
+  "version": 114,
   "summary": {
     "total": 506,
     "by_scope": {
@@ -7214,7 +7214,8 @@
       "emoji": "🌈",
       "colorHex": "#7C3AED",
       "gradientStart": "#7C3AED",
-      "gradientEnd": "#93C5FD"
+      "gradientEnd": "#93C5FD",
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-pet-memorial-day-v1.jpg"
     },
     {
       "id": "blood-donor-day",
