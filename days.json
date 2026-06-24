@@ -1,5 +1,5 @@
 {
-  "version": 115,
+  "version": 116,
   "summary": {
     "total": 507,
     "by_scope": {
@@ -8233,7 +8233,8 @@
       "emoji": "🕊️",
       "colorHex": "#6B21A8",
       "gradientStart": "#6B21A8",
-      "gradientEnd": "#E9D5FF"
+      "gradientEnd": "#E9D5FF",
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/international-widows-day-v1.jpg"
     },
     {
       "id": "cat-world-domination-day",
