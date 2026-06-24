@@ -1,5 +1,5 @@
 {
-  "version": 111,
+  "version": 112,
   "summary": {
     "total": 506,
     "by_scope": {
@@ -11530,7 +11530,8 @@
       "emoji": "🕯️",
       "colorHex": "#6D28D9",
       "gradientStart": "#6D28D9",
-      "gradientEnd": "#C4B5FD"
+      "gradientEnd": "#C4B5FD",
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/national-pet-memorial-day-v1.jpg"
     },
     {
       "id": "world-suicide-prevention-day",
