@@ -1,5 +1,5 @@
 {
-  "version": 109,
+  "version": 110,
   "summary": {
     "total": 506,
     "by_scope": {
@@ -8356,7 +8356,8 @@
       "emoji": "🏊",
       "colorHex": "#0284C7",
       "gradientStart": "#0284C7",
-      "gradientEnd": "#BAE6FD"
+      "gradientEnd": "#BAE6FD",
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/swim-a-lap-day-v1.jpg"
     },
     {
       "id": "world-drug-day",
