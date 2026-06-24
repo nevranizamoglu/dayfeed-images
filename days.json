@@ -1,5 +1,5 @@
 {
-  "version": 116,
+  "version": 117,
   "summary": {
     "total": 507,
     "by_scope": {
@@ -8399,7 +8399,8 @@
       "emoji": "🕊️",
       "colorHex": "#1D4ED8",
       "gradientStart": "#1D4ED8",
-      "gradientEnd": "#BAE6FD"
+      "gradientEnd": "#BAE6FD",
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/international-day-of-women-in-diplomacy-v1.jpg"
     },
     {
       "id": "world-drug-day",
