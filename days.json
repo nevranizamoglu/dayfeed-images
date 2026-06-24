@@ -1,5 +1,5 @@
 {
-  "version": 112,
+  "version": 113,
   "summary": {
     "total": 506,
     "by_scope": {
@@ -14324,7 +14324,8 @@
       "emoji": "🦴",
       "colorHex": "#B45309",
       "gradientStart": "#B45309",
-      "gradientEnd": "#FDE68A"
+      "gradientEnd": "#FDE68A",
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/pet-day-of-the-dead-v1.jpg"
     },
     {
       "id": "greece-ochi-day",
