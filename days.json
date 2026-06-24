@@ -1,9 +1,9 @@
 {
-  "version": 114,
+  "version": 115,
   "summary": {
-    "total": 506,
+    "total": 507,
     "by_scope": {
-      "global": 365,
+      "global": 366,
       "national": 129,
       "regional": 12
     },
@@ -19,16 +19,17 @@
       "sports": 18,
       "community": 9,
       "animals": 8,
-      "awareness": 4,
+      "awareness": 5,
+      "women": 3,
       "science": 2,
       "education": 2,
       "social": 2,
       "history": 2,
-      "women": 2,
       "cultural": 1,
       "fashion": 1,
       "religion": 1,
       "fitness": 1,
+      "government": 1,
       "business": 1,
       "friendship": 1
     },
@@ -8360,6 +8361,44 @@
       "gradientStart": "#0284C7",
       "gradientEnd": "#BAE6FD",
       "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/swim-a-lap-day-v1.jpg"
+    },
+    {
+      "id": "international-day-of-women-in-diplomacy",
+      "name": "International Day of Women in Diplomacy",
+      "name_de": "Internationaler Tag der Frauen in der Diplomatie",
+      "name_tr": "Uluslararası Diplomaside Kadınlar Günü",
+      "name_es": "Día Internacional de la Mujer en la Diplomacia",
+      "name_fr": "Journée internationale des femmes dans la diplomatie",
+      "date": "06-24",
+      "year": null,
+      "isRecurring": true,
+      "categories": [
+        "women",
+        "awareness",
+        "government"
+      ],
+      "scope": "global",
+      "countries": [],
+      "description": "International Day of Women in Diplomacy, established by the UN General Assembly in 2022, highlights the vital role women play in international peace and foreign policy. From 1992–2019, women made up just 13% of peace negotiators — yet research shows peace agreements involving women are 35% more likely to last at least 15 years.",
+      "description_de": "Der Internationale Tag der Frauen in der Diplomatie, von der UN 2022 eingeführt, hebt die entscheidende Rolle von Frauen in Friedensverhandlungen und Außenpolitik hervor.",
+      "description_tr": "2022'de BM tarafından kurulan bu gün, kadınların barış müzakerelerindeki ve dış politikadaki kritik rolünü vurgular. Kadınların dahil olduğu barış anlaşmalarının 15 yıl sürmesi %35 daha olasıdır.",
+      "description_es": "El Día Internacional de la Mujer en la Diplomacia, establecido por la ONU en 2022, destaca el papel vital de las mujeres en la paz internacional y la política exterior.",
+      "description_fr": "La Journée internationale des femmes dans la diplomatie, créée par l'ONU en 2022, souligne le rôle essentiel des femmes dans les négociations de paix et la politique étrangère.",
+      "slogan": "Women at the table build peace that lasts.",
+      "slogan_de": "Frauen am Verhandlungstisch schaffen dauerhaften Frieden.",
+      "slogan_tr": "Masadaki kadınlar kalıcı barış inşa eder.",
+      "slogan_es": "Las mujeres en la mesa construyen una paz duradera.",
+      "slogan_fr": "Les femmes à la table construisent une paix durable.",
+      "hashtags": [
+        "#WomenInDiplomacy",
+        "#IDWD",
+        "#WomenForPeace",
+        "#DiplomacyDay"
+      ],
+      "emoji": "🕊️",
+      "colorHex": "#1D4ED8",
+      "gradientStart": "#1D4ED8",
+      "gradientEnd": "#BAE6FD"
     },
     {
       "id": "world-drug-day",
