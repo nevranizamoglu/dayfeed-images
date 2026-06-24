@@ -1,5 +1,5 @@
 {
-  "version": 110,
+  "version": 111,
   "summary": {
     "total": 506,
     "by_scope": {
@@ -8153,7 +8153,8 @@
       "emoji": "🔥",
       "colorHex": "#C2410C",
       "gradientStart": "#C2410C",
-      "gradientEnd": "#FCD34D"
+      "gradientEnd": "#FCD34D",
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/st-johns-eve-v1.jpg"
     },
     {
       "id": "international-women-in-engineering-day",
