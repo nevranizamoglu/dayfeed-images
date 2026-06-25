@@ -1,18 +1,18 @@
 {
-  "version": 120,
+  "version": 121,
   "summary": {
-    "total": 510,
+    "total": 513,
     "by_scope": {
-      "global": 366,
-      "national": 132,
+      "global": 367,
+      "national": 134,
       "regional": 12
     },
     "by_category": {
-      "culture": 144,
+      "culture": 146,
       "national": 102,
-      "human-rights": 95,
-      "fun": 89,
-      "health": 76,
+      "human-rights": 97,
+      "fun": 91,
+      "health": 77,
       "environment": 62,
       "food": 40,
       "science-tech": 40,
@@ -34,7 +34,7 @@
       "spiritual": 1,
       "friendship": 1
     },
-    "multi_day_count": 5
+    "multi_day_count": 6
   },
   "days": [
     {
@@ -6063,6 +6063,46 @@
       "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-foster-day.jpg"
     },
     {
+      "id": "african-american-music-appreciation-month",
+      "name": "African American Music Appreciation Month",
+      "name_de": "Monat der afroamerikanischen Musikwertschätzung",
+      "name_tr": "Afro-Amerikan Müziği Takdir Ayı",
+      "name_es": "Mes de Apreciación de la Música Afroamericana",
+      "name_fr": "Mois d'appréciation de la musique afro-américaine",
+      "date": "06-01",
+      "endDate": "06-30",
+      "year": null,
+      "isRecurring": true,
+      "categories": [
+        "culture",
+        "human-rights"
+      ],
+      "scope": "national",
+      "countries": [
+        "US"
+      ],
+      "description": "African American Music Appreciation Month, celebrated every June, honors the profound contributions of Black musicians across jazz, gospel, rhythm and blues, and hip-hop. Founded in 1979 by President Jimmy Carter at the urging of songwriter Kenny Gamble, it was renamed by President Barack Obama in 2009 to reflect its broader significance. From Louis Armstrong to Beyoncé, Black artists have shaped the sound of American culture and driven global music movements.",
+      "description_de": "Der Monat der afroamerikanischen Musikwertschätzung im Juni ehrt die tiefgreifenden Beiträge Schwarzer Musiker in Jazz, Gospel, Rhythm and Blues und Hip-Hop. 1979 von Präsident Jimmy Carter auf Anregung des Songwriters Kenny Gamble gegründet, wurde er 2009 von Barack Obama umbenannt. Von Louis Armstrong bis Beyoncé haben Schwarze Künstler den Sound der amerikanischen Kultur geprägt.",
+      "description_tr": "Her Haziran ayında kutlanan Afro-Amerikan Müziği Takdir Ayı, Siyah müzisyenlerin caz, gospel, ritim ve blues ve hip-hop alanlarındaki derin katkılarını onurlandırır. 1979'da Başkan Jimmy Carter tarafından şarkı yazarı Kenny Gamble'ın teşvikiyle kurulan bu ay, 2009'da Barack Obama tarafından yeniden adlandırıldı.",
+      "description_es": "El Mes de Apreciación de la Música Afroamericana, celebrado cada junio, honra las profundas contribuciones de los músicos negros en el jazz, el gospel, el rhythm and blues y el hip-hop. Fundado en 1979 por el presidente Jimmy Carter, fue renombrado por Barack Obama en 2009. De Louis Armstrong a Beyoncé, los artistas negros han dado forma al sonido de la cultura americana.",
+      "description_fr": "Le Mois d'appréciation de la musique afro-américaine, célébré chaque juin, honore les contributions profondes des musiciens noirs dans le jazz, le gospel, le rhythm and blues et le hip-hop. Fondé en 1979 par le président Jimmy Carter, il a été renommé par Barack Obama en 2009. De Louis Armstrong à Beyoncé, les artistes noirs ont façonné le son de la culture américaine.",
+      "slogan": "The music that moved the world.",
+      "slogan_de": "Die Musik, die die Welt bewegt hat.",
+      "slogan_tr": "Dünyayı hareket ettiren müzik.",
+      "slogan_es": "La música que movió al mundo.",
+      "slogan_fr": "La musique qui a fait bouger le monde.",
+      "hashtags": [
+        "#BlackMusicMonth",
+        "#AfricanAmericanMusic",
+        "#BlackMusicMonthUSA"
+      ],
+      "emoji": "🎷",
+      "colorHex": "#7C3AED",
+      "gradientStart": "#7C3AED",
+      "gradientEnd": "#F59E0B",
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/african-american-music-appreciation-month.jpg"
+    },
+    {
       "id": "childrens-day-june",
       "name": "International Children's Day",
       "name_de": "Internationaler Kindertag",
@@ -6209,7 +6249,12 @@
       "name_fr": "Mois des fiertés LGBTQIA+",
       "description_fr": "Le Mois des fiertés LGBTQIA+, en juin, commémore les émeutes de Stonewall de 1969 et célèbre la diversité des identités sexuelles et de genre. Des marches des fiertés colorées rassemblent des millions de personnes dans le monde.",
       "slogan_fr": "L'amour est amour.",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/lgbtq-pride-month-v2.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/lgbtq-pride-month-v2.jpg",
+      "captions": [
+        "🏳️‍🌈 Love is love — and this month we celebrate every color of the rainbow. Happy Pride Month! #PrideMonth #Pride #LGBTQPride",
+        "✨ Pride is not just a celebration — it's a reminder that visibility, love, and equality are worth fighting for every single day. 🌈 #HappyPride #LoveIsLove",
+        "This June, we honor the courage of those who came before and the joy of those who are unapologetically themselves. 🌈❤️ #PrideMonth2026 #LGBTQRights"
+      ]
     },
     {
       "id": "national-adopt-a-cat-month",
@@ -8402,6 +8447,84 @@
       "gradientStart": "#1D4ED8",
       "gradientEnd": "#BAE6FD",
       "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/international-day-of-women-in-diplomacy-v1.jpg"
+    },
+    {
+      "id": "international-day-of-the-seafarer",
+      "name": "International Day of the Seafarer",
+      "name_de": "Internationaler Tag der Seeleute",
+      "name_tr": "Uluslararası Denizciler Günü",
+      "name_es": "Día Internacional del marino",
+      "name_fr": "Journée internationale des gens de mer",
+      "date": "06-25",
+      "year": null,
+      "isRecurring": true,
+      "categories": [
+        "culture",
+        "human-rights"
+      ],
+      "scope": "global",
+      "countries": [],
+      "description": "International Day of the Seafarer, observed on June 25, honors the nearly 1.9 million merchant seafarers who keep global trade moving — carrying roughly 80% of world merchandise by sea. Established by the International Maritime Organization (IMO) in 2010 and first observed in 2011, the day shines a light on seafarers' rights, mental health, and the often invisible sacrifices of those who spend months away from family on the open ocean.",
+      "description_de": "Der Internationale Tag der Seeleute am 25. Juni ehrt die rund 1,9 Millionen Handelsseefahrer, die den globalen Handel am Laufen halten — rund 80 % aller Waren werden auf dem Seeweg transportiert. Die Internationale Seeschifffahrtsorganisation (IMO) rief diesen Tag 2010 ins Leben, um auf die Rechte, die psychische Gesundheit und die Opfer der Seeleute aufmerksam zu machen.",
+      "description_tr": "Her yıl 25 Haziran'da kutlanan Uluslararası Denizciler Günü, dünya ticaretinin yaklaşık %80'ini taşıyan yaklaşık 1,9 milyon denizciyi onurlandırır. Uluslararası Denizcilik Örgütü (IMO) tarafından 2010'da oluşturulan bu gün, denizcilerin hakları, ruh sağlığı ve ailesinden uzak geçirilen uzun aylar boyunca yaptıkları fedakârlıklara dikkat çeker.",
+      "description_es": "El Día Internacional del marino, el 25 de junio, honra a los casi 1,9 millones de marineros mercantes que mantienen el comercio mundial en marcha — transportando cerca del 80% de las mercancías mundiales por mar. Establecido por la Organización Marítima Internacional (OMI) en 2010, el día destaca los derechos, la salud mental y los sacrificios de quienes pasan meses lejos de sus familias en alta mar.",
+      "description_fr": "La Journée internationale des gens de mer, le 25 juin, honore les quelque 1,9 million de marins marchands qui font tourner le commerce mondial — transportant environ 80 % des marchandises par voie maritime. Créée par l'Organisation maritime internationale (OMI) en 2010, elle met en lumière les droits, la santé mentale et les sacrifices de ceux qui passent des mois loin de leurs familles en haute mer.",
+      "slogan": "The world moves because they do.",
+      "slogan_de": "Die Welt bewegt sich, weil sie es tun.",
+      "slogan_tr": "Dünya hareket ediyor, çünkü onlar hareket ediyor.",
+      "slogan_es": "El mundo se mueve porque ellos lo hacen.",
+      "slogan_fr": "Le monde avance parce qu'ils avancent.",
+      "hashtags": [
+        "#DayOfTheSeafarer",
+        "#Seafarers",
+        "#IMO",
+        "#MerchantMarine"
+      ],
+      "emoji": "⚓",
+      "colorHex": "#0C4A6E",
+      "gradientStart": "#0C4A6E",
+      "gradientEnd": "#38BDF8",
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/international-day-of-the-seafarer.jpg"
+    },
+    {
+      "id": "national-day-of-joy",
+      "name": "National Day of Joy",
+      "name_de": "Nationaler Tag der Freude",
+      "name_tr": "Ulusal Neşe Günü",
+      "name_es": "Día Nacional de la Alegría",
+      "name_fr": "Journée nationale de la joie",
+      "date": null,
+      "dateRule": "last wednesday june",
+      "year": null,
+      "isRecurring": true,
+      "categories": [
+        "fun",
+        "health"
+      ],
+      "scope": "national",
+      "countries": [
+        "US"
+      ],
+      "description": "National Day of Joy, held on the last Wednesday of June, encourages people to find and share happiness in everyday moments. Created in 2019 by Comfort Keepers — an in-home senior care organization — the day grew from the observation that small moments of happiness often bring the biggest smiles. Joy isn't reserved for weekends or special occasions: it's a skill that can be practiced, noticed, and shared every single day.",
+      "description_de": "Der Nationale Tag der Freude, der am letzten Mittwoch im Juni begangen wird, ermutigt Menschen, im Alltag Glück zu finden und zu teilen. 2019 von Comfort Keepers ins Leben gerufen, entstand er aus der Beobachtung, dass kleine Momente der Freude oft die größten Lächeln schenken.",
+      "description_tr": "Haziran'ın son Çarşamba günü kutlanan Ulusal Neşe Günü, insanları günlük anlarda mutluluğu bulmaya ve paylaşmaya teşvik eder. 2019'da Comfort Keepers tarafından kurulan bu gün, küçük mutluluk anlarının en büyük gülümsemeleri getirdiği gözleminden doğdu.",
+      "description_es": "El Día Nacional de la Alegría, celebrado el último miércoles de junio, anima a las personas a encontrar y compartir la felicidad en los momentos cotidianos. Creado en 2019 por Comfort Keepers, surgió de observar que los pequeños momentos de alegría a menudo traen las mayores sonrisas.",
+      "description_fr": "La Journée nationale de la joie, célébrée le dernier mercredi de juin, encourage chacun à trouver et partager le bonheur dans les moments du quotidien. Créée en 2019 par Comfort Keepers, elle est née de l'observation que les petits instants de bonheur apportent souvent les plus grands sourires.",
+      "slogan": "Joy is a skill — practice it today.",
+      "slogan_de": "Freude ist eine Fähigkeit — übe sie heute.",
+      "slogan_tr": "Neşe bir beceridir — bugün pratik yap.",
+      "slogan_es": "La alegría es una habilidad — practícala hoy.",
+      "slogan_fr": "La joie est un art — cultivez-la aujourd'hui.",
+      "hashtags": [
+        "#NationalDayofJoy",
+        "#DayOfJoy",
+        "#FindJoy"
+      ],
+      "emoji": "🌟",
+      "colorHex": "#D97706",
+      "gradientStart": "#D97706",
+      "gradientEnd": "#FDE68A",
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/national-day-of-joy.jpg"
     },
     {
       "id": "world-drug-day",
@@ -13533,35 +13656,36 @@
       "name": "Global Beatles Day",
       "name_de": "Globaler Beatles-Tag",
       "name_tr": "Küresel Beatles Günü",
-      "date": "10-09",
+      "name_es": "Día Global de los Beatles",
+      "name_fr": "Journée mondiale des Beatles",
+      "date": "06-25",
       "year": null,
       "isRecurring": true,
       "categories": [
-        "culture"
+        "culture",
+        "fun"
       ],
       "scope": "global",
       "countries": [],
-      "description": "Global Beatles Day (October 9) celebrates the legacy of The Beatles and their impact on music, culture, and society. The date marks John Lennon's birthday. The Beatles remain the best-selling music artists in history.",
-      "description_de": "Der Globale Beatles-Tag (9. Oktober) feiert das Vermächtnis der Beatles und ihren Einfluss auf Musik und Kultur. Das Datum markiert John Lennons Geburtstag.",
-      "description_tr": "Küresel Beatles Günü (9 Ekim), Beatles'ın müzik ve kültür üzerindeki mirasını kutlar. Tarih, John Lennon'ın doğum gününü işaret eder.",
+      "description": "Global Beatles Day on June 25 commemorates the 1967 broadcast of 'All You Need Is Love' — the first-ever live international satellite television event, watched by 400 million people worldwide. Established in 2009 by fan Faith Cohen as a love letter to the band, the day celebrates The Beatles' music, message of peace, and their unmatched cultural legacy. With over 600 million albums sold and 20 Billboard #1 hits, they remain the best-selling music artists in history.",
+      "description_de": "Der Globale Beatles-Tag am 25. Juni erinnert an die Sendung von 'All You Need Is Love' im Jahr 1967 — das erste internationale Live-Satellitenereignis im Fernsehen, das weltweit 400 Millionen Menschen sahen. 2009 von Fan Faith Cohen als Liebesbrief an die Band ins Leben gerufen, feiert der Tag das Erbe der Beatles.",
+      "description_tr": "25 Haziran'daki Küresel Beatles Günü, 1967'de 'All You Need Is Love'ın yayınlandığı tarihi anmaktadır — dünya genelinde 400 milyon kişi tarafından izlenen ilk uluslararası canlı uydu televizyon etkinliği. 2009'da hayran Faith Cohen tarafından kurulan bu gün, Beatles'ın müziğini ve barış mesajını kutlar.",
+      "description_es": "El Día Global de los Beatles el 25 de junio conmemora la transmisión de 'All You Need Is Love' en 1967 — el primer evento de televisión por satélite en vivo de alcance internacional, visto por 400 millones de personas. Fundado en 2009 por la fan Faith Cohen, celebra el legado musical de los Beatles.",
+      "description_fr": "La Journée mondiale des Beatles, le 25 juin, commémore la diffusion de 'All You Need Is Love' en 1967 — premier événement télévisé en direct par satellite à portée internationale, regardé par 400 millions de personnes. Créée en 2009 par la fan Faith Cohen, elle célèbre l'héritage des Beatles.",
       "slogan": "All you need is love.",
       "slogan_de": "Alles, was du brauchst, ist Liebe.",
       "slogan_tr": "Tek ihtiyacın sevgi.",
+      "slogan_es": "Todo lo que necesitas es amor.",
+      "slogan_fr": "Tout ce dont tu as besoin, c'est l'amour.",
       "hashtags": [
         "#GlobalBeatlesDay",
         "#Beatles",
-        "#JohnLennon"
+        "#AllYouNeedIsLove"
       ],
-      "emoji": "🎼",
+      "emoji": "🎸",
       "colorHex": "#212121",
       "gradientStart": "#212121",
       "gradientEnd": "#E53935",
-      "name_es": "Día Global de los Beatles",
-      "description_es": "El Día Global de los Beatles el 9 de octubre celebra el legado de los Beatles y su impacto en la música, la cultura y la sociedad. La fecha marca el cumpleaños de John Lennon. Los Beatles siguen siendo los artistas musicales más vendidos de la historia.",
-      "slogan_es": "Todo lo que necesitas es amor.",
-      "name_fr": "Journée mondiale des Beatles",
-      "description_fr": "La Journée mondiale des Beatles, le 16 octobre, célèbre la musique et l'héritage du groupe de rock le plus influent de l'histoire. De « Love Me Do » à « Let It Be », les Beatles ont révolutionné la musique mondiale.",
-      "slogan_fr": "All you need is love.",
       "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/global-beatles-day.jpg"
     },
     {
