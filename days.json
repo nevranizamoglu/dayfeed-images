@@ -1,5 +1,5 @@
 {
-  "version": 122,
+  "version": 123,
   "summary": {
     "total": 513,
     "by_scope": {
@@ -8484,7 +8484,7 @@
       "colorHex": "#0C4A6E",
       "gradientStart": "#0C4A6E",
       "gradientEnd": "#38BDF8",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/international-day-of-the-seafarer.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/international-day-of-the-seafarer-v2.jpg"
     },
     {
       "id": "national-day-of-joy",
