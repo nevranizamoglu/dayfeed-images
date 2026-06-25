@@ -1,5 +1,5 @@
 {
-  "version": 121,
+  "version": 122,
   "summary": {
     "total": 513,
     "by_scope": {
@@ -12861,7 +12861,7 @@
       "colorHex": "#92400E",
       "gradientStart": "#92400E",
       "gradientEnd": "#FCD34D",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/national-pancake-day.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/national-pancake-day-v2.jpg"
     },
     {
       "id": "world-tourism-day",
