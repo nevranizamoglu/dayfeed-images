@@ -1,5 +1,5 @@
 {
-  "version": 119,
+  "version": 120,
   "summary": {
     "total": 510,
     "by_scope": {
@@ -10776,7 +10776,7 @@
       "colorHex": "#C1121F",
       "gradientStart": "#C1121F",
       "gradientEnd": "#FF9A3C",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/obon-festival.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/obon-festival-v2.jpg"
     },
     {
       "id": "pakistan-independence-day",
