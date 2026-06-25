@@ -1,5 +1,5 @@
 {
-  "version": 118,
+  "version": 119,
   "summary": {
     "total": 510,
     "by_scope": {
@@ -10623,7 +10623,7 @@
       "colorHex": "#1A1A2E",
       "gradientStart": "#1A1A2E",
       "gradientEnd": "#E94560",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/national-classic-movie-day.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/national-classic-movie-day-v2.jpg"
     },
     {
       "id": "youth-day",
