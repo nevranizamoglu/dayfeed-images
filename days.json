@@ -1,21 +1,21 @@
 {
-  "version": 117,
+  "version": 118,
   "summary": {
-    "total": 507,
+    "total": 510,
     "by_scope": {
       "global": 366,
-      "national": 129,
+      "national": 132,
       "regional": 12
     },
     "by_category": {
-      "culture": 142,
+      "culture": 144,
       "national": 102,
       "human-rights": 95,
-      "fun": 87,
+      "fun": 89,
       "health": 76,
       "environment": 62,
+      "food": 40,
       "science-tech": 40,
-      "food": 39,
       "sports": 18,
       "community": 9,
       "animals": 8,
@@ -31,9 +31,10 @@
       "fitness": 1,
       "government": 1,
       "business": 1,
+      "spiritual": 1,
       "friendship": 1
     },
-    "multi_day_count": 4
+    "multi_day_count": 5
   },
   "days": [
     {
@@ -10585,6 +10586,46 @@
       "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-lion-day.jpg"
     },
     {
+      "id": "national-classic-movie-day",
+      "name": "National Classic Movie Day",
+      "name_de": "Nationaler Klassischer Filmtag",
+      "name_tr": "Ulusal Klasik Film Günü",
+      "name_es": "Día Nacional de las Películas Clásicas",
+      "name_fr": "Journée nationale du film classique",
+      "date": "08-10",
+      "year": null,
+      "isRecurring": true,
+      "categories": [
+        "culture",
+        "fun"
+      ],
+      "scope": "national",
+      "countries": [
+        "US"
+      ],
+      "description": "National Classic Movie Day on August 10 celebrates the timeless films that shaped the art of cinema. From golden-age Hollywood epics to beloved mid-century comedies and dramas, this day is a perfect excuse to revisit a cinematic masterpiece.",
+      "description_de": "Der Nationale Klassische Filmtag am 10. August feiert die zeitlosen Meisterwerke des Kinos. Von Hollywood-Epen aus der Goldenen Ära bis hin zu geliebten Komödien und Dramen ist dies der perfekte Anlass, einen Klassiker (neu) zu entdecken.",
+      "description_tr": "10 Ağustos'taki Ulusal Klasik Film Günü, sinemanın sanatını şekillendiren zamansız filmleri kutlar. Hollywood'un altın çağı yapımlarından sevilen komedi ve dramalara kadar bu gün, bir sinema başyapıtını yeniden keşfetmek için mükemmel bir fırsat.",
+      "description_es": "El Día Nacional de las Películas Clásicas el 10 de agosto celebra las películas atemporales que dieron forma al arte del cine. Desde las epopeyas de Hollywood de la época dorada hasta las comedias y dramas del siglo XX, es la excusa perfecta para revisitar una obra maestra.",
+      "description_fr": "La Journée nationale du film classique, le 10 août, rend hommage aux films intemporels qui ont façonné l'art du cinéma. Des épopées hollywoodiennes de l'âge d'or aux comédies et drames d'antan, c'est le moment idéal pour (re)découvrir un chef-d'œuvre.",
+      "slogan": "Lights, camera, timeless.",
+      "slogan_de": "Licht, Kamera, Zeitlos.",
+      "slogan_tr": "Işıklar, kamera, zamansız.",
+      "slogan_es": "Luces, cámara, eterno.",
+      "slogan_fr": "Lumière, caméra, intemporel.",
+      "hashtags": [
+        "#NationalClassicMovieDay",
+        "#ClassicMovies",
+        "#Hollywood",
+        "#FilmHistory"
+      ],
+      "emoji": "🎬",
+      "colorHex": "#1A1A2E",
+      "gradientStart": "#1A1A2E",
+      "gradientEnd": "#E94560",
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/national-classic-movie-day.jpg"
+    },
+    {
       "id": "youth-day",
       "name": "International Youth Day",
       "name_de": "Internationaler Jugendtag",
@@ -10695,6 +10736,47 @@
       "description_fr": "La Journée internationale des gauchers, le 13 août, célèbre les gauchers qui représentent environ 10 % de la population mondiale. Dans un monde conçu pour les droitiers, cette journée met en lumière leurs défis et leurs forces.",
       "slogan_fr": "Gaucher : naturellement différent.",
       "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/left-handers-day.jpg"
+    },
+    {
+      "id": "obon-festival",
+      "name": "Obon Festival",
+      "name_de": "Obon-Fest",
+      "name_tr": "Obon Festivali",
+      "name_es": "Festival Obon",
+      "name_fr": "Festival Obon",
+      "date": "08-13",
+      "endDate": "08-15",
+      "year": null,
+      "isRecurring": true,
+      "categories": [
+        "culture",
+        "spiritual"
+      ],
+      "scope": "national",
+      "countries": [
+        "JP"
+      ],
+      "description": "Obon is a Japanese Buddhist tradition held each August 13–15 to honor the spirits of ancestors. Families return home, clean grave sites, and light lanterns to guide spirits back. The festival features Bon Odori folk dances, floating paper lanterns on rivers, and a profound sense of togetherness across generations.",
+      "description_de": "Obon ist ein japanisches buddhistisches Fest (13.–15. August) zu Ehren der Ahnengeister. Familien kehren nach Hause zurück, reinigen Gräber und zünden Laternen an, um die Geister zu leiten. Mit Bon-Odori-Volkstänzen und treibenden Papierlaternen auf Flüssen ist es eines der schönsten Feste Japans.",
+      "description_tr": "Obon, her yıl 13–15 Ağustos'ta tutulan Japon Budist geleneğidir; ata ruhlarını onurlandırmak için kutlanır. Aileler eve döner, mezarları temizler ve ruhları yönlendirmek için fenerler yakar. Festival; Bon Odori halk danslarını, nehirlerde yüzen kağıt fenerleri ve nesiller arası derin bir birliktelik duygusunu kapsar.",
+      "description_es": "Obon es una tradición budista japonesa celebrada del 13 al 15 de agosto para honrar a los espíritus de los antepasados. Las familias regresan a casa, limpian las tumbas y encienden linternas para guiar a los espíritus. El festival incluye danzas folclóricas Bon Odori y linternas de papel flotando en los ríos.",
+      "description_fr": "Obon est une tradition bouddhiste japonaise célébrée du 13 au 15 août en l'honneur des esprits ancestraux. Les familles rentrent chez elles, nettoient les tombes et allument des lanternes pour guider les esprits. Le festival comprend les danses folkloriques Bon Odori et des lanternes en papier flottant sur les rivières.",
+      "slogan": "Welcome the spirits home.",
+      "slogan_de": "Willkommen, ihr Ahnengeister.",
+      "slogan_tr": "Ruhları eve karşıla.",
+      "slogan_es": "Bienvenidos los espíritus del hogar.",
+      "slogan_fr": "Accueillons les esprits chez nous.",
+      "hashtags": [
+        "#Obon",
+        "#ObonFestival",
+        "#BonOdori",
+        "#Japan"
+      ],
+      "emoji": "🏮",
+      "colorHex": "#C1121F",
+      "gradientStart": "#C1121F",
+      "gradientEnd": "#FF9A3C",
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/obon-festival.jpg"
     },
     {
       "id": "pakistan-independence-day",
@@ -12617,6 +12699,46 @@
       "description_fr": "La Journée mondiale de la santé environnementale, le 26 septembre, sensibilise aux liens entre environnement et santé. La pollution de l'air, de l'eau et des sols cause des millions de décès prématurés chaque année dans le monde.",
       "slogan_fr": "Un environnement sain pour une vie saine.",
       "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-environment-health-day.jpg"
+    },
+    {
+      "id": "national-pancake-day",
+      "name": "National Pancake Day",
+      "name_de": "Nationaler Pfannkuchentag",
+      "name_tr": "Ulusal Krep Günü",
+      "name_es": "Día Nacional de los Panqueques",
+      "name_fr": "Journée nationale des pancakes",
+      "date": "09-26",
+      "year": null,
+      "isRecurring": true,
+      "categories": [
+        "food",
+        "fun"
+      ],
+      "scope": "national",
+      "countries": [
+        "US"
+      ],
+      "description": "National Pancake Day on September 26 celebrates America's love for the fluffy stacks that define weekend mornings. From classic buttermilk to blueberry and banana, pancakes are a canvas for creativity and a warm comfort food shared across generations. Stack 'em high and pour on the syrup!",
+      "description_de": "Der Nationale Pfannkuchentag am 26. September feiert die amerikanische Liebe zu fluffigen Pfannkuchenstapeln — dem Inbegriff des perfekten Wochenendfrühstücks. Von klassischer Buttermilch bis zu Blaubeere und Banane sind Pfannkuchen eine Leinwand für Kreativität.",
+      "description_tr": "26 Eylül'deki Ulusal Krep Günü, Amerika'nın hafta sonu sabahlarını tanımlayan kabarık pankek yığınlarına olan sevgisini kutlar. Klasik yayık sütlüsünden yaban mersinli ve muzlu çeşitlere kadar pankekler, nesiller boyu paylaşılan sıcak bir lezzettir.",
+      "description_es": "El Día Nacional de los Panqueques el 26 de septiembre celebra el amor estadounidense por las pilas esponjosas que definen las mañanas del fin de semana. Desde la classic buttermilk hasta blueberry y banana, los panqueques son un lienzo para la creatividad.",
+      "description_fr": "La Journée nationale des pancakes, le 26 septembre, célèbre la passion américaine pour ces crêpes épaisses et moelleuses qui définissent les matins du week-end. Du classique buttermilk aux myrtilles en passant par la banane, les pancakes sont une toile de créativité.",
+      "slogan": "Stack 'em high, pour it on.",
+      "slogan_de": "Hoch gestapelt, großzügig begossen.",
+      "slogan_tr": "Yükseğe istifle, bolca dök.",
+      "slogan_es": "Apílalos alto, échale el sirope.",
+      "slogan_fr": "Empilez, nappez, savourez.",
+      "hashtags": [
+        "#NationalPancakeDay",
+        "#PancakeDay",
+        "#Pancakes",
+        "#BreakfastLovers"
+      ],
+      "emoji": "🥞",
+      "colorHex": "#92400E",
+      "gradientStart": "#92400E",
+      "gradientEnd": "#FCD34D",
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/national-pancake-day.jpg"
     },
     {
       "id": "world-tourism-day",
