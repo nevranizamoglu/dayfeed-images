@@ -1,17 +1,17 @@
 {
-  "version": 125,
+  "version": 126,
   "summary": {
-    "total": 518,
+    "total": 519,
     "by_scope": {
-      "global": 370,
+      "global": 371,
       "national": 136,
       "regional": 12
     },
     "by_category": {
-      "culture": 148,
+      "culture": 149,
       "national": 102,
       "human-rights": 98,
-      "fun": 92,
+      "fun": 93,
       "health": 79,
       "environment": 62,
       "food": 41,
@@ -8447,6 +8447,44 @@
       "gradientStart": "#1D4ED8",
       "gradientEnd": "#BAE6FD",
       "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/international-day-of-women-in-diplomacy-v1.jpg"
+    },
+    {
+      "id": "world-fairy-day",
+      "name": "World Fairy Day",
+      "name_de": "Weltfeentag",
+      "name_tr": "Dünya Periler Günü",
+      "name_es": "Día Mundial de las Hadas",
+      "name_fr": "Journée mondiale des fées",
+      "date": "06-24",
+      "year": null,
+      "isRecurring": true,
+      "categories": [
+        "culture",
+        "fun"
+      ],
+      "scope": "global",
+      "countries": [],
+      "description": "World Fairy Day on June 24 — timed to the magic of Midsummer — celebrates the ancient folklore of fairies, sprites, and enchanted beings that have sparked human imagination across cultures for millennia. From Irish changelings and Scandinavian älvor to Shakespeare's Titania and Victorian fairy paintings, these winged beings of folklore bridge the mundane and the magical. The day is an invitation to read fairy tales, explore nature, craft tiny fairy doors, and let wonder take over.",
+      "description_de": "Der Weltfeentag am 24. Juni — passend zur Mittsommermagie — feiert die uralte Feenfolklore, die die menschliche Fantasie über Jahrtausende hinweg in Kulturen auf der ganzen Welt beflügelt hat. Von irischen Wechselbälgern und skandinavischen Älvor bis zu Shakespeares Titania — Feen verbinden das Alltägliche mit dem Magischen.",
+      "description_tr": "24 Haziran'daki Dünya Periler Günü — yaz ortasının büyüsüne denk gelecek şekilde — nesiller boyu insanlık hayal gücünü ateşleyen peri masalı varlıklarını kutlar. İrlanda'nın değiştirilenlerinden İskandinav älvorlarına, Shakespeare'in Titania'sından Viktorya dönemi peri tablolarına kadar bu kanatlarla bezenmiş varlıklar, olağan ile büyülü olanı birleştirir.",
+      "description_es": "El Día Mundial de las Hadas el 24 de junio — sincronizado con la magia del solsticio de verano — celebra el antiguo folclore de hadas, duendes y seres encantados que han despertado la imaginación humana durante milenios. Desde los cambiantes irlandeses y los älvor escandinavos hasta Titania de Shakespeare, estos seres alados conectan lo cotidiano con lo mágico.",
+      "description_fr": "La Journée mondiale des fées le 24 juin — coïncidant avec la magie du solstice d'été — célèbre le folklore ancestral des fées, lutins et êtres enchantés qui ont enflammé l'imaginaire humain depuis des millénaires. Des changelings irlandais aux älvor scandinaves, en passant par la Titania de Shakespeare, ces êtres ailés relient le quotidien au merveilleux.",
+      "slogan": "Believe in a little magic today.",
+      "slogan_de": "Glaube heute an ein bisschen Magie.",
+      "slogan_tr": "Bugün biraz büyüye inan.",
+      "slogan_es": "Cree en un poco de magia hoy.",
+      "slogan_fr": "Croyez en un peu de magie aujourd'hui.",
+      "hashtags": [
+        "#WorldFairyDay",
+        "#FairyDay",
+        "#FairyTales",
+        "#MagicAndWonder"
+      ],
+      "emoji": "🧚",
+      "colorHex": "#6D28D9",
+      "gradientStart": "#6D28D9",
+      "gradientEnd": "#F0ABFC",
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/world-fairy-day.jpg"
     },
     {
       "id": "international-day-of-the-seafarer",
