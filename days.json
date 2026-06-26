@@ -1,5 +1,5 @@
 {
-  "version": 127,
+  "version": 128,
   "summary": {
     "total": 519,
     "by_scope": {
@@ -8676,7 +8676,7 @@
       "colorHex": "#065F46",
       "gradientStart": "#065F46",
       "gradientEnd": "#6EE7B7",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/cancer-wellness-awareness-day.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/cancer-wellness-awareness-day-v2.jpg"
     },
     {
       "id": "chocolate-pudding-day",
