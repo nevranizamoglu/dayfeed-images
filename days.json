@@ -1,5 +1,5 @@
 {
-  "version": 126,
+  "version": 127,
   "summary": {
     "total": 519,
     "by_scope": {
@@ -8638,7 +8638,7 @@
       "colorHex": "#9D174D",
       "gradientStart": "#9D174D",
       "gradientEnd": "#F9A8D4",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/national-beauticians-day.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/national-beauticians-day-v2.jpg"
     },
     {
       "id": "cancer-wellness-awareness-day",
