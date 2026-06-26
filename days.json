@@ -1,5 +1,5 @@
 {
-  "version": 123,
+  "version": 124,
   "summary": {
     "total": 513,
     "by_scope": {
@@ -6100,7 +6100,7 @@
       "colorHex": "#7C3AED",
       "gradientStart": "#7C3AED",
       "gradientEnd": "#F59E0B",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/african-american-music-appreciation-month.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/african-american-music-appreciation-month-v2.jpg"
     },
     {
       "id": "childrens-day-june",
