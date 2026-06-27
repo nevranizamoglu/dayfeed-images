@@ -1,5 +1,5 @@
 {
-  "version": 128,
+  "version": 129,
   "summary": {
     "total": 519,
     "by_scope": {
@@ -8716,7 +8716,7 @@
       "colorHex": "#78350F",
       "gradientStart": "#78350F",
       "gradientEnd": "#D97706",
-      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/chocolate-pudding-day.jpg"
+      "image_url": "https://cdn.jsdelivr.net/gh/nevranizamoglu/dayfeed-images@main/days/images/chocolate-pudding-day-v2.jpg"
     },
     {
       "id": "dream-big-day",
